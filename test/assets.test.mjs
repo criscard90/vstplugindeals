@@ -58,9 +58,34 @@ check(
   manifest.id
 );
 
-/* --- risorse citate in index.html --- */
 const html = read('index.html');
-const refs = [...html.matchAll(/(?:href|src)="([^"#:]+)"/g)].map((m) => m[1]);
+
+/* --- link al manifest: e' il requisito n.1 dell'installabilita' PWA ---
+ * Un href vuoto o malformato (es. href=""manifest.json?) fa scaricare al
+ * browser l'HTML della pagina come manifest: il parsing JSON fallisce e
+ * Chrome rifiuta l'installazione con "Questa app non puo' essere installata".
+ * La vecchia regex dei refs non intercettava href="" perche' la cattura
+ * richiede almeno un carattere, quindi il guasto passava silenzioso. */
+const manifestLink = html.match(/<link\s+rel="manifest"\s+href="([^"]*)"/);
+check('index.html dichiara <link rel="manifest">', Boolean(manifestLink));
+const manifestHref = (manifestLink?.[1] || '').trim();
+check('href del manifest non vuoto', manifestHref.length > 0, JSON.stringify(manifestHref));
+const manifestPath = manifestHref.split(/[?#]/)[0];
+check(
+  'href del manifest punta a un file esistente',
+  manifestPath.length > 0 && existsSync(join(root, manifestPath)),
+  manifestPath
+);
+check(
+  'manifest linkato == manifest.json della root',
+  manifestPath === 'manifest.json',
+  manifestPath
+);
+
+/* --- risorse citate in index.html ---
+ * La regex esclude anche "?": il manifest e' referenziato con una query
+ * string di cache-busting (manifest.json?v=2.0.2) e existsSync non la tollera. */
+const refs = [...html.matchAll(/(?:href|src)="([^"#:?]+)"/g)].map((m) => m[1]);
 const localRefs = [...new Set(refs)].filter((r) => !r.startsWith('http') && !r.startsWith('data:'));
 check('index.html ha risorse locali', localRefs.length > 0, localRefs.join(', '));
 for (const ref of localRefs) {
