@@ -1,5 +1,5 @@
 {
-  "id": "/v2",
+  "id": "./",
   "name": "Plugin Deals — offerte VST",
   "short_name": "Plugin Deals",
   "description": "Offerte e plugin gratuiti per VST, raccolti con scraping diretto da Audio Plugin Deals.",
