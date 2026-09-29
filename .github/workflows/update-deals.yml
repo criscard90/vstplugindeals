@@ -2,7 +2,12 @@ name: Aggiorna Deal VST
 
 on:
   schedule:
-    # Esegui ogni 6 ore (alle 00:00, 06:00, 12:00, 18:00 UTC)
+    # Ogni 6 ore. In ora italiana (Europe/Rome):
+    #   ora legale, fine marzo -> fine ottobre: 02:00, 08:00, 14:00, 20:00
+    #   ora standard, fine ottobre -> fine marzo: 01:00, 07:00, 13:00, 19:00
+    # Un solo cron non puo' tenere ferme entrambe le stagioni: l'ora legale
+    # la decide l'UE e slitta di 1h a fine ottobre. Con questo scaglione
+    # l'estate (7 mesi su 12) cade esattamente sulle ore italiane "tonde".
     - cron: '0 0,6,12,18 * * *'
   workflow_dispatch: # Permette di avviare l'aggiornamento a mano con un click da GitHub
 

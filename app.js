@@ -155,15 +155,25 @@ function formatDate(iso) {
     : date.toLocaleDateString('it-IT', { day: 'numeric', month: 'short', year: 'numeric' });
 }
 
-function relativeTime(iso) {
+/**
+ * Etichetta dell'ultimo aggiornamento in ora italiana (Europe/Rome), indipendentemente
+ * dal fuso del visitatore: "oggi alle 01:04", "ieri alle 23:10", "28 set alle 16:42".
+ */
+function updatedAtLabel(iso) {
   const date = new Date(iso);
   if (Number.isNaN(date.getTime())) return '';
-  const minutes = Math.round((Date.now() - date.getTime()) / 60000);
-  if (minutes < 1) return 'adesso';
-  if (minutes < 60) return `${minutes} min fa`;
-  const hours = Math.round(minutes / 60);
-  if (hours < 24) return `${hours} h fa`;
-  return formatDate(iso);
+  const time = date.toLocaleTimeString('it-IT', {
+    hour: '2-digit',
+    minute: '2-digit',
+    timeZone: 'Europe/Rome',
+  });
+  // Confronto dei giorni in fuso italiano tramite chiave YYYY-MM-DD.
+  const dayKey = (d) => d.toLocaleDateString('en-CA', { timeZone: 'Europe/Rome' });
+  const thatDay = dayKey(date);
+  if (thatDay === dayKey(new Date())) return `oggi alle ${time}`;
+  if (thatDay === dayKey(new Date(Date.now() - 86400000))) return `ieri alle ${time}`;
+  const day = date.toLocaleDateString('it-IT', { day: 'numeric', month: 'short', timeZone: 'Europe/Rome' });
+  return `${day} alle ${time}`;
 }
 
 /** Una sola fonte di verita' per l'etichetta di stato (era duplicata in 3 punti). */
@@ -378,7 +388,7 @@ function setStatus(text, tone = 'info') {
 
 function describeMeta(meta) {
   if (!meta) return '';
-  const when = meta.fetchedAt ? relativeTime(meta.fetchedAt) : 'sconosciuto';
+  const when = meta.fetchedAt ? updatedAtLabel(meta.fetchedAt) : 'sconosciuto';
   const total = state.deals.length;
   const free = state.deals.filter((d) => d.free).length;
   const where = meta.source || CONFIG.sourceUrl;
