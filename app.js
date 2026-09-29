@@ -133,7 +133,7 @@ async function fetchViaProxy() {
   const html = await response.text();
   const { deals, stats } = parseDeals(html);
   if (!deals.length) throw new Error('HTML ricevuto dal proxy ma nessun deal riconosciuto.');
-  return { deals, meta: { source: 'proxy + parser nel browser', stats, fetchedAt: new Date().toISOString() } };
+  return { deals, meta: { source: '', stats, fetchedAt: new Date().toISOString() } };
 }
 
 /* ------------------------------------------------------------- rendering */
