@@ -2,14 +2,19 @@ name: Aggiorna Deal VST
 
 on:
   schedule:
-    # Ogni 6 ore. In ora italiana (Europe/Rome):
-    #   ora legale, fine marzo -> fine ottobre: 02:00, 08:00, 14:00, 20:00
-    #   ora standard, fine ottobre -> fine marzo: 01:00, 07:00, 13:00, 19:00
-    # Un solo cron non puo' tenere ferme entrambe le stagioni: l'ora legale
-    # la decide l'UE e slitta di 1h a fine ottobre. Con questo scaglione
-    # l'estate (7 mesi su 12) cade esattamente sulle ore italiane "tonde".
-    - cron: '0 0,6,12,18 * * *'
+    # Ogni ora, al minuto :07. Il minuto e' volutamente NON le 00: all'inizio
+    # dell'ora GitHub ha il carico piu' alto e i run programmati rischiano
+    # ritardi importanti o di essere saltati (docs -> evento "schedule").
+    # Il cron e' in UTC ma lo scarto CET/CEST e' di ore intere, quindi in
+    # Italia il run cade sempre alle :07 di ogni ora, tutto l'anno.
+    - cron: '7 * * * *'
   workflow_dispatch: # Permette di avviare l'aggiornamento a mano con un click da GitHub
+
+# Un solo run alla volta: se una esecuzione va lenta la successiva aspetta
+# invece di fare scraping concorrente sullo stesso deals.json.
+concurrency:
+  group: update-deals
+  cancel-in-progress: false
 
 permissions:
   contents: write
