@@ -2,13 +2,13 @@
   "ok": true,
   "source": "audiopluginguy.com/deals",
   "sourceUrl": "https://www.audiopluginguy.com/deals/",
-  "fetchedAt": "2026-09-29T14:24:56.441Z",
+  "fetchedAt": "2026-09-30T05:22:32.725Z",
   "stats": {
-    "rows": 376,
+    "rows": 390,
     "free": 42,
-    "kept": 372,
+    "kept": 383,
     "skipped": 0,
-    "duplicates": 4
+    "duplicates": 7
   },
   "deals": [
     {
@@ -139,6 +139,34 @@
       ]
     },
     {
+      "id": "https://gooeyaudio.com/plugins/snake/",
+      "title": "Gooey Audio is offering 80% off on The Snake modulation plugin.",
+      "developer": "Gooey Audio",
+      "url": "https://gooeyaudio.com/plugins/snake/",
+      "discount": 80,
+      "free": false,
+      "ends": "2026-10-06",
+      "dateAdded": "2026-09-29",
+      "tags": [
+        "Effects",
+        "Modulation"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        },
+        {
+          "label": "💰 BIG DISCOUNT",
+          "kind": "save"
+        }
+      ]
+    },
+    {
       "id": "https://midigenie.com",
       "title": "Get 78% off MIDI Genie, the AI MIDI generator plugin for producers that turns text prompts into editable multi-track MIDI.",
       "developer": "MIDI Genie",
@@ -166,6 +194,38 @@
       ]
     },
     {
+      "id": "https://audioplugin.deals/product/eastwest-hollywood-orchestra-opus-edition/ref/21/",
+      "title": "Get 75% off EastWest Hollywood Orchestra Opus Edition for $149 (Normally $599).",
+      "developer": "EastWest",
+      "url": "https://audioplugin.deals/product/eastwest-hollywood-orchestra-opus-edition/ref/21/",
+      "discount": 75,
+      "free": false,
+      "ends": "2026-10-01",
+      "dateAdded": "2026-09-29",
+      "tags": [
+        "Instruments",
+        "Orchestral"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "⏰ ENDS SOON",
+          "kind": "soon"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        },
+        {
+          "label": "🔥 HOT",
+          "kind": "hot"
+        }
+      ]
+    },
+    {
       "id": "https://audioplugin.deals/product/sonura-pro-annual-license/ref/21/",
       "title": "Get 75% off Sonura Flow (PRO Annual License) for $45 (Normally $180).",
       "developer": "Sonura Flow",
@@ -187,6 +247,93 @@
       ]
     },
     {
+      "id": "https://audioplugin.deals/product/true-keys-by-vi-labs/ref/21/",
+      "title": "Get 74% off True Keys Piano Bundle by VI Labs for $89 (Normally $349).",
+      "developer": "VI-Labs",
+      "url": "https://audioplugin.deals/product/true-keys-by-vi-labs/ref/21/",
+      "discount": 74,
+      "free": false,
+      "ends": "2026-10-12",
+      "dateAdded": "2026-09-29",
+      "tags": [
+        "Instruments",
+        "Bundle"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://www.pluginboutique.com/product/2-Effects/17-Reverb/17969-Asymo-Reverb?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get 70% off Asymo Reverb by W. A. Production. The discounted price is $14.90.",
+      "developer": "W. A. Production",
+      "url": "https://www.pluginboutique.com/product/2-Effects/17-Reverb/17969-Asymo-Reverb?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 70,
+      "free": false,
+      "ends": "2026-10-31",
+      "dateAdded": "2026-09-29",
+      "tags": [
+        "Reverb",
+        "Spatial",
+        "Modulation",
+        "Filter",
+        "Saturation",
+        "Presets"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://www.soundsonline.com/",
+      "title": "EastWest Halloween Sale – up to 65% off on libraries and bundles. Plus, a free preselected product with any qualifying purchase",
+      "developer": "EastWest",
+      "url": "https://www.soundsonline.com/",
+      "discount": 65,
+      "free": false,
+      "ends": "2026-10-01",
+      "dateAdded": "2026-09-29",
+      "tags": [
+        "Instruments",
+        "Library",
+        "Orchestral",
+        "Bundle",
+        "Halloween"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        },
+        {
+          "label": "🔥 HOT",
+          "kind": "hot"
+        },
+        {
+          "label": "⏰ ENDS SOON",
+          "kind": "soon"
+        }
+      ]
+    },
+    {
       "id": "https://unveilmusic.app/unveil-ai",
       "title": "Get 60% off UnveilAI from Unveil with coupon code: APG60.",
       "developer": "Unveil",
@@ -197,6 +344,30 @@
       "dateAdded": "2026-09-29",
       "tags": [
         "Effects"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://www.adsrsounds.com/product/software/lost-sky-audio-reverie-piano-sampler-piano/#a_aid=apg",
+      "title": "ADSR Sounds Exclusive Deals – 50% off on Lost Sky Audio Reverie Piano virtual instrument plugin.",
+      "developer": "Lost Sky Audio",
+      "url": "https://www.adsrsounds.com/product/software/lost-sky-audio-reverie-piano-sampler-piano/#a_aid=apg",
+      "discount": 50,
+      "free": false,
+      "ends": "2026-10-08",
+      "dateAdded": "2026-09-29",
+      "tags": [
+        "Instruments",
+        "Piano"
       ],
       "badges": [
         {
@@ -249,7 +420,41 @@
       "free": false,
       "ends": "2026-10-06",
       "dateAdded": "2026-09-29",
-      "tags": [],
+      "tags": [
+        "Synth",
+        "Effects",
+        "Instruments",
+        "Samples",
+        "Loops",
+        "Drum",
+        "Bass",
+        "Vocal"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://samplesfrommars.com/products/lo-fi-tapes-from-mars",
+      "title": "Samples From Mars has released Lo-Fi Tapes From Mars sample pack. The intro is 34% off.",
+      "developer": "Samples From Mars",
+      "url": "https://samplesfrommars.com/products/lo-fi-tapes-from-mars",
+      "discount": 34,
+      "free": false,
+      "ends": null,
+      "dateAdded": "2026-09-29",
+      "tags": [
+        "Samples",
+        "Loops",
+        "Packs"
+      ],
       "badges": [
         {
           "label": "!",
@@ -271,6 +476,30 @@
       "ends": null,
       "dateAdded": "2026-09-29",
       "tags": [],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://www.schwabedigital.com/hifal",
+      "title": "Schwabe Digital has released HiFAL 2 high-frequency dynamics plugin for Win & Mac. The intro is 30% off.",
+      "developer": "Schwabe Digital",
+      "url": "https://www.schwabedigital.com/hifal",
+      "discount": 30,
+      "free": false,
+      "ends": "2026-10-14",
+      "dateAdded": "2026-09-29",
+      "tags": [
+        "Effects",
+        "Dynamics"
+      ],
       "badges": [
         {
           "label": "!",
@@ -308,6 +537,55 @@
       ]
     },
     {
+      "id": "https://evabeat.com/",
+      "title": "EVAbeat has updated Melody Sauce 3 MIDI plugin for Win & Mac to v3.1. The intro is 20% off.",
+      "developer": "EVAbeat",
+      "url": "https://evabeat.com/",
+      "discount": 20,
+      "free": false,
+      "ends": "2026-10-04",
+      "dateAdded": "2026-09-29",
+      "tags": [
+        "MIDI",
+        "Generator",
+        "Instruments"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://astracreativeaudio.com/en/",
+      "title": "Astra Creative Audio is offering 20% off on A-2A, A-3A and A-2Bus compressor plugins. Use the code: ASTRA20.",
+      "developer": "Astra Creative Audio",
+      "url": "https://astracreativeaudio.com/en/",
+      "discount": 20,
+      "free": false,
+      "ends": "2026-10-12",
+      "dateAdded": "2026-09-29",
+      "tags": [
+        "Effects",
+        "Compressor"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
       "id": "https://nomzstudios.com/apg",
       "title": "Get 15% off StemMaster, the standalone stem mixing and mastering app from NOMZ Studios, with coupon code: APG15.",
       "developer": "NOMZ Studios",
@@ -325,6 +603,31 @@
         "Standalone",
         "MacOS",
         "AI"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://www.audiofier.co.uk/overflow/",
+      "title": "Audiofier has released Overflow sound design instrument for Kontakt (full version). The intro is 12% off.",
+      "developer": "Audiofier",
+      "url": "https://www.audiofier.co.uk/overflow/",
+      "discount": 12,
+      "free": false,
+      "ends": null,
+      "dateAdded": "2026-09-29",
+      "tags": [
+        "Instruments",
+        "Library",
+        "Kontakt"
       ],
       "badges": [
         {
@@ -819,14 +1122,18 @@
     },
     {
       "id": "https://www.mmediaaudio.com/plugins/northstar/",
-      "title": "Save 40% on Northstar from M Media Audio: $59 introductory price, regularly $99.",
+      "title": "M Media Audio has released Northstar mastering console plugin for Mac, Win & Linux. The intro is 40% off.",
       "developer": "M Media Audio",
       "url": "https://www.mmediaaudio.com/plugins/northstar/",
       "discount": 40,
       "free": false,
-      "ends": "2026-10-05",
+      "ends": "2026-10-04",
       "dateAdded": "2026-09-28",
-      "tags": [],
+      "tags": [
+        "Effects",
+        "Mastering",
+        "Console"
+      ],
       "badges": [
         {
           "label": "!",
@@ -8351,7 +8658,9 @@
         "Samples",
         "Synth",
         "Effects",
+        "Virtual Instrument",
         "Instruments",
+        "Production",
         "Drum",
         "Guitar"
       ],
@@ -8359,6 +8668,10 @@
         {
           "label": "!",
           "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
         },
         {
           "label": "⏰ ENDS SOON",
