@@ -2,7 +2,7 @@
   "ok": true,
   "source": "audiopluginguy.com/deals",
   "sourceUrl": "https://www.audiopluginguy.com/deals/",
-  "fetchedAt": "2026-10-01T08:44:23.112Z",
+  "fetchedAt": "2026-10-01T16:18:26.354Z",
   "stats": {
     "rows": 260,
     "free": 42,
@@ -1518,14 +1518,23 @@
     {
       "id": "https://audiodeluxe.com/collections/software/products/eastwest-lo-fi?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
       "title": "Get 67% off EastWest LO-FI at Audio Deluxe. The discounted price is $49.",
-      "developer": "",
+      "developer": "EastWest",
       "url": "https://audiodeluxe.com/collections/software/products/eastwest-lo-fi?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
       "discount": 67,
       "free": false,
       "ends": "2026-11-01",
       "dateAdded": "2026-09-30",
       "tags": [],
-      "badges": []
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🔥 HOT",
+          "kind": "hot"
+        }
+      ]
     },
     {
       "id": "https://app.shevtoneaudio.com/orchestrator",
@@ -1577,7 +1586,7 @@
     {
       "id": "https://audiodeluxe.com/collections/software/products/eastwest-string-machine?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
       "title": "Get 47% off EastWest String Machine at Audio Deluxe. The discounted price is $52.",
-      "developer": "",
+      "developer": "EastWest",
       "url": "https://audiodeluxe.com/collections/software/products/eastwest-string-machine?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
       "discount": 47,
       "free": false,
