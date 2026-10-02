@@ -2,15 +2,97 @@
   "ok": true,
   "source": "audiopluginguy.com/deals",
   "sourceUrl": "https://www.audiopluginguy.com/deals/",
-  "fetchedAt": "2026-10-01T16:18:26.354Z",
+  "fetchedAt": "2026-10-02T01:34:14.970Z",
   "stats": {
-    "rows": 260,
-    "free": 42,
-    "kept": 257,
+    "rows": 295,
+    "free": 43,
+    "kept": 292,
     "skipped": 0,
     "duplicates": 3
   },
   "deals": [
+    {
+      "id": "https://audioplugin.deals/product/blox-delay-by-pine-dsp/ref/21/",
+      "title": "Get Blox Delay by Pine DSP free, normally $19. Free Gift of the Month.",
+      "developer": "Pine DSP",
+      "url": "https://audioplugin.deals/product/blox-delay-by-pine-dsp/ref/21/",
+      "discount": 100,
+      "free": true,
+      "ends": "2026-10-31",
+      "dateAdded": "2026-10-01",
+      "tags": [],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        },
+        {
+          "label": "🎁 FREEBIE",
+          "kind": "freebie"
+        }
+      ]
+    },
+    {
+      "id": "https://audioplugin.deals/product/oriental-percussion-by-image-sounds/ref/21/",
+      "title": "Get 96% off Oriental Percussion by Image Sounds for $2 (Normally $44.90).",
+      "developer": "Image Sounds",
+      "url": "https://audioplugin.deals/product/oriental-percussion-by-image-sounds/ref/21/",
+      "discount": 96,
+      "free": false,
+      "ends": "2026-10-31",
+      "dateAdded": "2026-10-01",
+      "tags": [],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        },
+        {
+          "label": "💰 BIG DISCOUNT",
+          "kind": "save"
+        }
+      ]
+    },
+    {
+      "id": "https://www.pluginboutique.com/deals/24180?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get up to 95% off in the W. A. Production Ultimate Synths Bundle Sale.",
+      "developer": "W. A. Production",
+      "url": "https://www.pluginboutique.com/deals/24180?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 95,
+      "free": false,
+      "ends": "2026-10-31",
+      "dateAdded": "2026-10-01",
+      "tags": [
+        "Samples",
+        "Synth",
+        "Effects",
+        "Instruments",
+        "Drum",
+        "Guitar"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        },
+        {
+          "label": "💰 BIG DISCOUNT",
+          "kind": "save"
+        }
+      ]
+    },
     {
       "id": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/11986-MPC-Compressor?a_aid=57ac3d39bf8f6&chan=APGDB",
       "title": "Get 91% off MPC Compressor by Harrison Consoles. The discounted price is $25.",
@@ -26,6 +108,213 @@
         "Sidechain",
         "EQ",
         "Metering"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        },
+        {
+          "label": "💰 BIG DISCOUNT",
+          "kind": "save"
+        }
+      ]
+    },
+    {
+      "id": "https://www.pluginboutique.com/deals/24147?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get up to 89% off in the Softube Analogue Emulations Month Sale.",
+      "developer": "Softube",
+      "url": "https://www.pluginboutique.com/deals/24147?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 89,
+      "free": false,
+      "ends": "2026-11-01",
+      "dateAdded": "2026-10-01",
+      "tags": [
+        "Samples",
+        "Synth",
+        "Effects",
+        "Virtual Instrument",
+        "Instruments",
+        "Synth Presets"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        },
+        {
+          "label": "🔥 HOT",
+          "kind": "hot"
+        },
+        {
+          "label": "💰 BIG DISCOUNT",
+          "kind": "save"
+        }
+      ]
+    },
+    {
+      "id": "https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/8653-SSL-Native-Channel-Strip-2?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get 87% off SSL Native Channel Strip 2 by Solid State Logic. The discounted price is $19.",
+      "developer": "Solid State Logic",
+      "url": "https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/8653-SSL-Native-Channel-Strip-2?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 87,
+      "free": false,
+      "ends": "2026-10-12",
+      "dateAdded": "2026-10-01",
+      "tags": [
+        "Channel Strip",
+        "SSL",
+        "EQ",
+        "Compressor",
+        "Gate",
+        "Filter"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        },
+        {
+          "label": "🔥 HOT",
+          "kind": "hot"
+        },
+        {
+          "label": "💰 BIG DISCOUNT",
+          "kind": "save"
+        }
+      ]
+    },
+    {
+      "id": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/8651-SSL-Native-Bus-Compressor-2?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get 87% off SSL Native Bus Compressor 2 by Solid State Logic. The discounted price is $19.",
+      "developer": "Solid State Logic",
+      "url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/8651-SSL-Native-Bus-Compressor-2?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 87,
+      "free": false,
+      "ends": "2026-10-12",
+      "dateAdded": "2026-10-01",
+      "tags": [
+        "Compressor",
+        "Dynamics",
+        "Mixing",
+        "Mix & Master",
+        "Sidechain"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        },
+        {
+          "label": "🔥 HOT",
+          "kind": "hot"
+        },
+        {
+          "label": "💰 BIG DISCOUNT",
+          "kind": "save"
+        }
+      ]
+    },
+    {
+      "id": "https://www.pluginboutique.com/product/81-Bundles/98-Sample-and-Preset-Packs/16791-Drum-Bass-for-Serum-2-Bundle-Exclusive-?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get 86% off Drum & Bass for Serum 2 Bundle by The Tone Foundry. The discounted price is $19.",
+      "developer": "The Tone Foundry",
+      "url": "https://www.pluginboutique.com/product/81-Bundles/98-Sample-and-Preset-Packs/16791-Drum-Bass-for-Serum-2-Bundle-Exclusive-?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 86,
+      "free": false,
+      "ends": "2026-10-31",
+      "dateAdded": "2026-10-01",
+      "tags": [
+        "Drum and Bass",
+        "Serum",
+        "Synth Presets",
+        "Bass",
+        "Arp",
+        "Pads"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        },
+        {
+          "label": "💰 BIG DISCOUNT",
+          "kind": "save"
+        }
+      ]
+    },
+    {
+      "id": "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/17954-SSL-Reverb-Collection?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get 86% off SSL Reverb Collection by Solid State Logic. The discounted price is $39.99.",
+      "developer": "Solid State Logic",
+      "url": "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/17954-SSL-Reverb-Collection?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 86,
+      "free": false,
+      "ends": "2026-10-14",
+      "dateAdded": "2026-10-01",
+      "tags": [
+        "Reverb",
+        "Effect Bundle",
+        "EQ",
+        "Compressor",
+        "Gate",
+        "Sidechain"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        },
+        {
+          "label": "🔥 HOT",
+          "kind": "hot"
+        },
+        {
+          "label": "💰 BIG DISCOUNT",
+          "kind": "save"
+        }
+      ]
+    },
+    {
+      "id": "https://www.pluginboutique.com/deals/24122?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get up to 84% off in the Fuse Audio Labs Analogue Emulations Month Sale.",
+      "developer": "Fuse Audio Labs",
+      "url": "https://www.pluginboutique.com/deals/24122?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 84,
+      "free": false,
+      "ends": "2026-11-01",
+      "dateAdded": "2026-10-01",
+      "tags": [
+        "Synth",
+        "Effects",
+        "Instruments",
+        "Samples",
+        "Sound Design",
+        "Production"
       ],
       "badges": [
         {
@@ -106,6 +395,159 @@
       ]
     },
     {
+      "id": "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/15335-Minimal-Audio-x-Excite-Audio-Effects-Bundle-Exclusive-?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get 76% off Minimal Audio x Excite Audio Effects Bundle by Exclusive Bundles+. The discounted price is $59.",
+      "developer": "Exclusive Bundles+",
+      "url": "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/15335-Minimal-Audio-x-Excite-Audio-Effects-Bundle-Exclusive-?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 76,
+      "free": false,
+      "ends": "2026-10-02",
+      "dateAdded": "2026-10-01",
+      "tags": [
+        "Delay",
+        "Reverb",
+        "Compressor",
+        "Chorus",
+        "Granular",
+        "Multi-Effect"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "⏰ ENDS SOON",
+          "kind": "soon"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://www.pluginboutique.com/deals/24127?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get up to 75% off in the Universal Audio Analogue Emulations Month Sale.",
+      "developer": "Universal Audio",
+      "url": "https://www.pluginboutique.com/deals/24127?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 75,
+      "free": false,
+      "ends": "2026-10-15",
+      "dateAdded": "2026-10-01",
+      "tags": [
+        "Synth",
+        "Effects",
+        "Virtual Instrument",
+        "Samples",
+        "Sample and Preset Packs",
+        "Instruments"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        },
+        {
+          "label": "🔥 HOT",
+          "kind": "hot"
+        }
+      ]
+    },
+    {
+      "id": "https://www.pluginboutique.com/deals/24112?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get up to 75% off in the UJAM Analogue Emulations Month Sale.",
+      "developer": "UJAM",
+      "url": "https://www.pluginboutique.com/deals/24112?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 75,
+      "free": false,
+      "ends": "2026-10-31",
+      "dateAdded": "2026-10-01",
+      "tags": [
+        "Samples",
+        "Synth",
+        "Effects",
+        "Instruments",
+        "Drum",
+        "Guitar",
+        "Vocal",
+        "Mixing"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        },
+        {
+          "label": "🔥 HOT",
+          "kind": "hot"
+        }
+      ]
+    },
+    {
+      "id": "https://www.pluginboutique.com/deals/24149?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get up to 75% off in the Heavyocity Manufacturer Focus Sale.",
+      "developer": "Heavyocity",
+      "url": "https://www.pluginboutique.com/deals/24149?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 75,
+      "free": false,
+      "ends": "2026-10-16",
+      "dateAdded": "2026-10-01",
+      "tags": [
+        "Synth",
+        "Effects",
+        "Virtual Instrument",
+        "Samples",
+        "Instruments",
+        "Synth Presets"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        },
+        {
+          "label": "🔥 HOT",
+          "kind": "hot"
+        }
+      ]
+    },
+    {
+      "id": "https://www.pluginboutique.com/deals/24145?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get up to 73% off in the Excite Audio Analogue Emulations Sale.",
+      "developer": "Excite Audio",
+      "url": "https://www.pluginboutique.com/deals/24145?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 73,
+      "free": false,
+      "ends": "2026-10-31",
+      "dateAdded": "2026-10-01",
+      "tags": [
+        "Various Category"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
       "id": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/17961-MSymphonia-Bells-Mallets?a_aid=57ac3d39bf8f6&chan=APGDB",
       "title": "Get 72% off MSymphonia: Bells & Mallets by MeldaProduction. The discounted price is $19.",
       "developer": "MeldaProduction",
@@ -134,6 +576,36 @@
         {
           "label": "🔥 HOT",
           "kind": "hot"
+        }
+      ]
+    },
+    {
+      "id": "https://www.pluginboutique.com/deals/24057?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get up to 70% off in the Relab Development Analog Emulations Month Sale.",
+      "developer": "Relab Development",
+      "url": "https://www.pluginboutique.com/deals/24057?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 70,
+      "free": false,
+      "ends": "2026-10-25",
+      "dateAdded": "2026-10-01",
+      "tags": [
+        "Samples",
+        "Synth",
+        "Effects",
+        "Instruments",
+        "Drum",
+        "Guitar",
+        "Vocal",
+        "Mixing"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
         }
       ]
     },
@@ -190,6 +662,69 @@
         {
           "label": "🆕 NEW",
           "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/15593-Cableguys-x-Excite-Audio-Bass-Builder-Bundle?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get 68% off Cableguys x Excite Audio Bass Builder Bundle by Exclusive Bundles+. The discounted price is $59.",
+      "developer": "Exclusive Bundles+",
+      "url": "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/15593-Cableguys-x-Excite-Audio-Bass-Builder-Bundle?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 68,
+      "free": false,
+      "ends": "2026-10-02",
+      "dateAdded": "2026-10-01",
+      "tags": [
+        "Bass",
+        "Samples",
+        "Analyzer",
+        "Envelope Shaper",
+        "Distortion",
+        "Stereo Width"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "⏰ ENDS SOON",
+          "kind": "soon"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://www.uvi.net/emulation-2-plus?ruf=111",
+      "title": "UVI Super Deal – 67% off on Emulation II+ virtual instrument suite for UVI Workstation and Falcon.",
+      "developer": "UVI",
+      "url": "https://www.uvi.net/emulation-2-plus?ruf=111",
+      "discount": 67,
+      "free": false,
+      "ends": "2026-10-05",
+      "dateAdded": "2026-10-01",
+      "tags": [
+        "Instruments",
+        "Library",
+        "Suite",
+        "UVI Workstation",
+        "Falcon"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        },
+        {
+          "label": "🔥 HOT",
+          "kind": "hot"
         }
       ]
     },
@@ -426,6 +961,167 @@
       ]
     },
     {
+      "id": "https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/16911-Attracktive-Box-Pro?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get 60% off Attracktive Box Pro by Tracktion. The discounted price is $99.",
+      "developer": "Tracktion",
+      "url": "https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/16911-Attracktive-Box-Pro?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 60,
+      "free": false,
+      "ends": "2026-10-31",
+      "dateAdded": "2026-10-01",
+      "tags": [
+        "Expansion",
+        "Presets",
+        "Samples",
+        "Synth",
+        "Piano",
+        "Additive"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16252-Analog-Polysynth-Collection?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get 60% off Analog Polysynth Collection by Roland. The discounted price is $199.",
+      "developer": "Roland",
+      "url": "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16252-Analog-Polysynth-Collection?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 60,
+      "free": false,
+      "ends": "2026-10-31",
+      "dateAdded": "2026-10-01",
+      "tags": [
+        "Analog",
+        "Synth",
+        "Emulation",
+        "Arpeggiator",
+        "Effects",
+        "Bundle"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://audioplugin.deals/product/prodigy-by-martinic/ref/21/",
+      "title": "Get 60% off Prodigy by Martinic for $39.99 (Normally $99).",
+      "developer": "Martinic",
+      "url": "https://audioplugin.deals/product/prodigy-by-martinic/ref/21/",
+      "discount": 60,
+      "free": false,
+      "ends": "2026-10-14",
+      "dateAdded": "2026-10-01",
+      "tags": [],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/5409-SubLab?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get 58% off SubLab by Future Audio Workshop. The discounted price is $29.",
+      "developer": "Future Audio Workshop",
+      "url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/5409-SubLab?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 58,
+      "free": false,
+      "ends": "2026-10-31",
+      "dateAdded": "2026-10-01",
+      "tags": [
+        "808",
+        "Bass",
+        "Subbass",
+        "Synth",
+        "Distortion",
+        "Compressor"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://www.pluginboutique.com/deals/24154?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get up to 56% off in the McDSP Spooky Sale.",
+      "developer": "McDSP",
+      "url": "https://www.pluginboutique.com/deals/24154?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 56,
+      "free": false,
+      "ends": "2026-11-02",
+      "dateAdded": "2026-10-01",
+      "tags": [
+        "Samples",
+        "Synth",
+        "Effects",
+        "Virtual Instrument",
+        "Instruments",
+        "Synth Presets"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/15308-ZENOLOGY-PRO?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get 56% off ZENOLOGY PRO by Roland. The discounted price is $99.",
+      "developer": "Roland",
+      "url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/15308-ZENOLOGY-PRO?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 56,
+      "free": false,
+      "ends": "2026-10-31",
+      "dateAdded": "2026-10-01",
+      "tags": [
+        "Synth",
+        "Virtual Instrument",
+        "Analog",
+        "Effects",
+        "Browser",
+        "Drumkit"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
       "id": "https://www.pluginboutique.com/product/1-Instruments/55-Kontakt-Instrument/3066-Revolution?a_aid=57ac3d39bf8f6&chan=APGDB",
       "title": "Get 54% off Revolution by Wave Alchemy (Kontakt Instrument). The discounted price is $55.",
       "developer": "Wave Alchemy",
@@ -454,6 +1150,62 @@
       ]
     },
     {
+      "id": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/9354-SubLab-XL?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get 51% off SubLab XL by Future Audio Workshop. The discounted price is $39.",
+      "developer": "Future Audio Workshop",
+      "url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/9354-SubLab-XL?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 51,
+      "free": false,
+      "ends": "2026-10-31",
+      "dateAdded": "2026-10-01",
+      "tags": [
+        "Synth",
+        "Bass",
+        "Sub",
+        "808",
+        "Distortion",
+        "LFO"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/1419-DopeSONIX-Crate-Digger?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get 51% off DopeSONIX Crate Digger by DopeSONIX. The discounted price is $39.",
+      "developer": "DopeSONIX",
+      "url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/1419-DopeSONIX-Crate-Digger?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 51,
+      "free": false,
+      "ends": "2026-10-31",
+      "dateAdded": "2026-10-01",
+      "tags": [
+        "Hip Hop",
+        "Samples",
+        "Loops",
+        "Vinyl",
+        "Reverb",
+        "Virtual Instrument"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
       "id": "https://www.pluginboutique.com/product/2-Effects/19-Filter/9161-Filtryg?a_aid=57ac3d39bf8f6&chan=APGDB",
       "title": "Get 51% off Filtryg by MOK. The discounted price is $19.",
       "developer": "MOK",
@@ -468,6 +1220,116 @@
         "Modulation",
         "LFO",
         "Envelope"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://www.korg.com/us/news/2026/0930/",
+      "title": "To celebrate the release of LA Studio Drums expansion library, KORG is offering 50% off on KORG Module Pro and KORG Gadget 3 for iOS.",
+      "developer": "KORG",
+      "url": "https://www.korg.com/us/news/2026/0930/",
+      "discount": 50,
+      "free": false,
+      "ends": "2026-10-07",
+      "dateAdded": "2026-10-01",
+      "tags": [
+        "Instruments",
+        "Synth",
+        "Bundle",
+        "Apps"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/16887-Attracktive-Box-Essential?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get 50% off Attracktive Box Essential by Tracktion. The discounted price is $69.",
+      "developer": "Tracktion",
+      "url": "https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/16887-Attracktive-Box-Essential?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 50,
+      "free": false,
+      "ends": "2026-10-31",
+      "dateAdded": "2026-10-01",
+      "tags": [
+        "Sampler",
+        "Expansion",
+        "Synth",
+        "Piano",
+        "Analog",
+        "Additive"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/6602-MSoundFactoryLE?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get 50% off MSoundFactoryLE by MeldaProduction. The discounted price is $56.50.",
+      "developer": "MeldaProduction",
+      "url": "https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/6602-MSoundFactoryLE?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 50,
+      "free": false,
+      "ends": "2026-10-17",
+      "dateAdded": "2026-10-01",
+      "tags": [
+        "Synth",
+        "Instruments",
+        "Presets",
+        "MIDI",
+        "Limiter",
+        "Metering"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/6076-MSoundFactory?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get 50% off MSoundFactory by MeldaProduction. The discounted price is $164.50.",
+      "developer": "MeldaProduction",
+      "url": "https://www.pluginboutique.com/product/1-Instruments/57-Complete-Collection/6076-MSoundFactory?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 50,
+      "free": false,
+      "ends": "2026-10-17",
+      "dateAdded": "2026-10-01",
+      "tags": [
+        "Synth",
+        "Modular",
+        "Modulation",
+        "MPE",
+        "Additive",
+        "Effects"
       ],
       "badges": [
         {
@@ -1057,6 +1919,38 @@
       ]
     },
     {
+      "id": "https://www.pluginboutique.com/deals/24084?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get up to 42% off in the LUNA Studio + UAD Native Pro Bundle Sale.",
+      "developer": "Universal Audio",
+      "url": "https://www.pluginboutique.com/deals/24084?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 42,
+      "free": false,
+      "ends": "2027-01-03",
+      "dateAdded": "2026-10-01",
+      "tags": [
+        "Samples",
+        "Synth",
+        "Effects",
+        "Virtual Instrument",
+        "Instruments",
+        "Production"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        },
+        {
+          "label": "🔥 HOT",
+          "kind": "hot"
+        }
+      ]
+    },
+    {
       "id": "https://www.pluginboutique.com/product/2-Effects/18-Amp-Simulator/10254-AmpKnob-BDH-5169?a_aid=57ac3d39bf8f6&chan=APGDB",
       "title": "Get 41% off AmpKnob BDH 5169 by Bogren Digital. The discounted price is $29.",
       "developer": "Bogren Digital",
@@ -1073,6 +1967,27 @@
         "Recording",
         "Standalone"
       ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://audiodeluxe.com/collections/software/products/universal-audio-galaxy-tape-echo?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "title": "Get 40% off Universal Audio Galaxy Tape Echo at Audio Deluxe. The discounted price is $29.",
+      "developer": "",
+      "url": "https://audiodeluxe.com/collections/software/products/universal-audio-galaxy-tape-echo?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "discount": 40,
+      "free": false,
+      "ends": "2026-11-01",
+      "dateAdded": "2026-10-01",
+      "tags": [],
       "badges": [
         {
           "label": "!",
@@ -1238,6 +2153,90 @@
         "Compressor",
         "AI",
         "Emulation"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://www.pluginboutique.com/product/2-Effects/30-Distortion/15720-DELTA?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get 33% off DELTA by NEST Acoustics. The discounted price is $39.",
+      "developer": "NEST Acoustics",
+      "url": "https://www.pluginboutique.com/product/2-Effects/30-Distortion/15720-DELTA?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 33,
+      "free": false,
+      "ends": "2026-10-31",
+      "dateAdded": "2026-10-01",
+      "tags": [
+        "Distortion",
+        "Saturation",
+        "Sidechain",
+        "Dynamics",
+        "Multi-Effect",
+        "Experimental"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16471-Mercury-Synthesizer-Collection-Bundle?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get 31% off Mercury Synthesizer Collection Bundle by Cherry Audio. The discounted price is $129.",
+      "developer": "Cherry Audio",
+      "url": "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/16471-Mercury-Synthesizer-Collection-Bundle?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 31,
+      "free": false,
+      "ends": "2026-10-31",
+      "dateAdded": "2026-10-01",
+      "tags": [
+        "Bundle",
+        "Synth",
+        "Analog",
+        "Emulation",
+        "Arpeggiator",
+        "Sequencer"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/8849-Portatron?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get 30% off Portatron by Robotic Bean. The discounted price is $69.",
+      "developer": "Robotic Bean",
+      "url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/8849-Portatron?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 30,
+      "free": false,
+      "ends": "2026-10-30",
+      "dateAdded": "2026-10-01",
+      "tags": [
+        "Sampler",
+        "LoFi",
+        "Tape",
+        "Tape Emulation",
+        "Delay",
+        "Reverb"
       ],
       "badges": [
         {
@@ -1433,6 +2432,36 @@
         "Bassline",
         "Melody",
         "Scales"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://www.pluginboutique.com/deals/24100?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get up to 25% off in the Heritage Audio Analogue Emulations Month Sale.",
+      "developer": "Heritage Audio",
+      "url": "https://www.pluginboutique.com/deals/24100?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 25,
+      "free": false,
+      "ends": "2026-10-31",
+      "dateAdded": "2026-10-01",
+      "tags": [
+        "Synth",
+        "Effects",
+        "Samples",
+        "Instruments",
+        "Drum",
+        "Guitar",
+        "Vocal",
+        "Bass"
       ],
       "badges": [
         {
