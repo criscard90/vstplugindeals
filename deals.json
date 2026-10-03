@@ -2,15 +2,339 @@
   "ok": true,
   "source": "audiopluginguy.com/deals",
   "sourceUrl": "https://www.audiopluginguy.com/deals/",
-  "fetchedAt": "2026-10-02T08:23:18.032Z",
+  "fetchedAt": "2026-10-03T06:21:46.091Z",
   "stats": {
-    "rows": 295,
-    "free": 46,
-    "kept": 291,
+    "rows": 308,
+    "free": 45,
+    "kept": 304,
     "skipped": 0,
     "duplicates": 4
   },
   "deals": [
+    {
+      "id": "https://audioplugin.deals/product/deepstereo-reverb-lite-by-leson/ref/21/",
+      "title": "Get DeepStereo Reverb Lite by Leson free, normally $19.99.",
+      "developer": "Leson",
+      "url": "https://audioplugin.deals/product/deepstereo-reverb-lite-by-leson/ref/21/",
+      "discount": 100,
+      "free": true,
+      "ends": "2026-10-15",
+      "dateAdded": "2026-10-02",
+      "tags": [],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🎁 FREEBIE",
+          "kind": "freebie"
+        }
+      ]
+    },
+    {
+      "id": "https://audiodeluxe.com/collections/software/products/solid-state-logic-ssl-native-channel-strip-2?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "title": "Get 87% off SSL Channel Strip 2 at Audio Deluxe. The discounted price is $19.",
+      "developer": "",
+      "url": "https://audiodeluxe.com/collections/software/products/solid-state-logic-ssl-native-channel-strip-2?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "discount": 87,
+      "free": false,
+      "ends": "2026-10-15",
+      "dateAdded": "2026-10-02",
+      "tags": [],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "💰 BIG DISCOUNT",
+          "kind": "save"
+        }
+      ]
+    },
+    {
+      "id": "https://audiodeluxe.com/collections/software/products/harrison-32classic-channel-strip?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "title": "Get 83% off Harrison 32Classic Channel Strip at Audio Deluxe. The discounted price is $24.",
+      "developer": "",
+      "url": "https://audiodeluxe.com/collections/software/products/harrison-32classic-channel-strip?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "discount": 83,
+      "free": false,
+      "ends": "2026-10-15",
+      "dateAdded": "2026-10-02",
+      "tags": [],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "💰 BIG DISCOUNT",
+          "kind": "save"
+        }
+      ]
+    },
+    {
+      "id": "https://audiodeluxe.com/collections/software/products/uvi-darklight-iix?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "title": "Get 80% off UVI Darklight IIx at Audio Deluxe. The discounted price is $19.",
+      "developer": "",
+      "url": "https://audiodeluxe.com/collections/software/products/uvi-darklight-iix?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "discount": 80,
+      "free": false,
+      "ends": "2026-10-12",
+      "dateAdded": "2026-10-02",
+      "tags": [],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "💰 BIG DISCOUNT",
+          "kind": "save"
+        }
+      ]
+    },
+    {
+      "id": "https://audiodeluxe.com/collections/software/products/uvi-beast?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "title": "Get 80% off UVI The Beast at Audio Deluxe. The discounted price is $19.",
+      "developer": "",
+      "url": "https://audiodeluxe.com/collections/software/products/uvi-beast?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "discount": 80,
+      "free": false,
+      "ends": "2026-10-12",
+      "dateAdded": "2026-10-02",
+      "tags": [],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "💰 BIG DISCOUNT",
+          "kind": "save"
+        }
+      ]
+    },
+    {
+      "id": "https://www.pluginboutique.com/deals/24187?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get up to 72% off in the Excite Audio Effects Sale.",
+      "developer": "Excite Audio",
+      "url": "https://www.pluginboutique.com/deals/24187?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 72,
+      "free": false,
+      "ends": "2026-10-31",
+      "dateAdded": "2026-10-02",
+      "tags": [
+        "Synth",
+        "Effects",
+        "Virtual Instrument",
+        "Samples",
+        "Loops",
+        "Drum",
+        "Bass",
+        "Guitar"
+      ],
+      "badges": []
+    },
+    {
+      "id": "https://audioplugin.deals/product/remidi-4-advanced-midi-sampler-vst-au-by-songwish/ref/21/",
+      "title": "Get 70% off reMIDI 4 Advanced MIDI Sampler (VST, AU) by SongWish for $38.40 (Normally $128).",
+      "developer": "SongWish",
+      "url": "https://audioplugin.deals/product/remidi-4-advanced-midi-sampler-vst-au-by-songwish/ref/21/",
+      "discount": 70,
+      "free": false,
+      "ends": "2026-10-15",
+      "dateAdded": "2026-10-02",
+      "tags": [],
+      "badges": []
+    },
+    {
+      "id": "https://www.pluginboutique.com/product/81-Bundles/98-Sample-and-Preset-Packs/17797-Looptool-Inspire?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get 63% off Looptool Inspire by Ueberschall. The discounted price is $55.",
+      "developer": "Ueberschall",
+      "url": "https://www.pluginboutique.com/product/81-Bundles/98-Sample-and-Preset-Packs/17797-Looptool-Inspire?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 63,
+      "free": false,
+      "ends": "2026-10-18",
+      "dateAdded": "2026-10-02",
+      "tags": [
+        "Loops",
+        "Samples",
+        "Sound Design",
+        "Synth",
+        "Drum",
+        "Bass"
+      ],
+      "badges": []
+    },
+    {
+      "id": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/10985-LunchTable?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get 60% off LunchTable by BEATSURFING. The discounted price is $39.",
+      "developer": "BEATSURFING",
+      "url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/10985-LunchTable?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 60,
+      "free": false,
+      "ends": "2026-10-09",
+      "dateAdded": "2026-10-02",
+      "tags": [
+        "Drum Machine",
+        "Samples",
+        "MIDI",
+        "EQ",
+        "Percussion",
+        "Pads"
+      ],
+      "badges": []
+    },
+    {
+      "id": "https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/13366-BEATSURFING-Full-House-Bundle?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get 57% off BEATSURFING Full House Bundle by BEATSURFING. The discounted price is $349.",
+      "developer": "BEATSURFING",
+      "url": "https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/13366-BEATSURFING-Full-House-Bundle?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 57,
+      "free": false,
+      "ends": "2026-10-31",
+      "dateAdded": "2026-10-02",
+      "tags": [
+        "Bundle",
+        "Multi-Effect",
+        "AI",
+        "Synth",
+        "Bass",
+        "Drum Machine"
+      ],
+      "badges": []
+    },
+    {
+      "id": "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/13365-RANDOM-Metal-RANDOM-Bundle?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get 53% off RANDOM Metal + RANDOM Bundle by BEATSURFING. The discounted price is $129.",
+      "developer": "BEATSURFING",
+      "url": "https://www.pluginboutique.com/product/81-Bundles/58-Instrument-Bundles/13365-RANDOM-Metal-RANDOM-Bundle?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 53,
+      "free": false,
+      "ends": "2026-10-31",
+      "dateAdded": "2026-10-02",
+      "tags": [
+        "AI",
+        "Synth",
+        "Drum Synth",
+        "Percussion",
+        "Sound Design",
+        "Presets"
+      ],
+      "badges": []
+    },
+    {
+      "id": "https://audiodeluxe.com/collections/software/products/eastwest-hollywood-fantasy-voices?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "title": "Get 47% off EastWest Hollywood Fantasy Voices at Audio Deluxe. The discounted price is $52.",
+      "developer": "",
+      "url": "https://audiodeluxe.com/collections/software/products/eastwest-hollywood-fantasy-voices?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "discount": 47,
+      "free": false,
+      "ends": "2026-11-01",
+      "dateAdded": "2026-10-02",
+      "tags": [],
+      "badges": []
+    },
+    {
+      "id": "https://audiodeluxe.com/collections/software/products/solid-state-logic-ssl-module8?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "title": "Get 40% off SSL Module8 at Audio Deluxe. The discounted price is $29.",
+      "developer": "",
+      "url": "https://audiodeluxe.com/collections/software/products/solid-state-logic-ssl-module8?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "discount": 40,
+      "free": false,
+      "ends": "2026-10-15",
+      "dateAdded": "2026-10-02",
+      "tags": [],
+      "badges": []
+    },
+    {
+      "id": "https://audiodeluxe.com/collections/software/products/ssl-sourcerer?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "title": "Get 40% off SSL Sourcerer at Audio Deluxe. The discounted price is $29.",
+      "developer": "",
+      "url": "https://audiodeluxe.com/collections/software/products/ssl-sourcerer?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "discount": 40,
+      "free": false,
+      "ends": "2026-10-15",
+      "dateAdded": "2026-10-02",
+      "tags": [],
+      "badges": []
+    },
+    {
+      "id": "https://www.pluginboutique.com/product/2-Effects/45-Granular-FX/17714-Lucid?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get 38% off Lucid by Minimal Audio. The discounted price is $79.",
+      "developer": "Minimal Audio",
+      "url": "https://www.pluginboutique.com/product/2-Effects/45-Granular-FX/17714-Lucid?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 38,
+      "free": false,
+      "ends": "2026-10-31",
+      "dateAdded": "2026-10-02",
+      "tags": [
+        "Granular FX",
+        "Effects",
+        "Delay",
+        "Filter",
+        "Imager",
+        "Arpeggiator"
+      ],
+      "badges": []
+    },
+    {
+      "id": "https://www.pluginboutique.com/product/81-Bundles/98-Sample-and-Preset-Packs/16540-Creator-Pack?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get 30% off Creator Pack by Ueberschall. The discounted price is $115.50.",
+      "developer": "Ueberschall",
+      "url": "https://www.pluginboutique.com/product/81-Bundles/98-Sample-and-Preset-Packs/16540-Creator-Pack?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 30,
+      "free": false,
+      "ends": "2026-10-18",
+      "dateAdded": "2026-10-02",
+      "tags": [
+        "Loops",
+        "Samples",
+        "Library",
+        "Beat",
+        "Ambient",
+        "Cinematic"
+      ],
+      "badges": []
+    },
+    {
+      "id": "https://www.pluginboutique.com/product/81-Bundles/98-Sample-and-Preset-Packs/16539-Producer-Pack?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get 30% off Producer Pack by Ueberschall. The discounted price is $216.30.",
+      "developer": "Ueberschall",
+      "url": "https://www.pluginboutique.com/product/81-Bundles/98-Sample-and-Preset-Packs/16539-Producer-Pack?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 30,
+      "free": false,
+      "ends": "2026-10-18",
+      "dateAdded": "2026-10-02",
+      "tags": [
+        "Loops",
+        "Samples",
+        "Library",
+        "Ambient",
+        "Cinematic",
+        "Sound Effects"
+      ],
+      "badges": []
+    },
+    {
+      "id": "https://www.pluginboutique.com/product/3-Studio-Tools/95-Referencing-Tools/17957-MixChecker-LE?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get 25% off MixChecker LE by Audified. The discounted price is $29.",
+      "developer": "Audified",
+      "url": "https://www.pluginboutique.com/product/3-Studio-Tools/95-Referencing-Tools/17957-MixChecker-LE?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 25,
+      "free": false,
+      "ends": "2026-10-06",
+      "dateAdded": "2026-10-02",
+      "tags": [
+        "Referencing Tools",
+        "Monitoring",
+        "Mixing",
+        "Studio Tools"
+      ],
+      "badges": []
+    },
     {
       "id": "https://www.applied-acoustics.com/",
       "title": "Applied Acoustic Systems has released AAS Player 2.0, a free dedicated player plugin for Win & Mac with over 650 free sounds.",
@@ -706,6 +1030,10 @@
         {
           "label": "!",
           "kind": "default"
+        },
+        {
+          "label": "⏰ ENDS SOON",
+          "kind": "soon"
         },
         {
           "label": "🔥 HOT",
@@ -1708,14 +2036,23 @@
     {
       "id": "https://audiodeluxe.com/collections/software/products/universal-audio-galaxy-tape-echo?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
       "title": "Get 40% off Universal Audio Galaxy Tape Echo at Audio Deluxe. The discounted price is $29.",
-      "developer": "",
+      "developer": "Universal Audio",
       "url": "https://audiodeluxe.com/collections/software/products/universal-audio-galaxy-tape-echo?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
       "discount": 40,
       "free": false,
       "ends": "2026-11-01",
       "dateAdded": "2026-10-01",
       "tags": [],
-      "badges": []
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🔥 HOT",
+          "kind": "hot"
+        }
+      ]
     },
     {
       "id": "https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/15707-IPA-25?a_aid=57ac3d39bf8f6&chan=APGDB",
@@ -2318,6 +2655,10 @@
           "kind": "default"
         },
         {
+          "label": "⏰ ENDS SOON",
+          "kind": "soon"
+        },
+        {
           "label": "🎁 FREEBIE",
           "kind": "freebie"
         }
@@ -2451,6 +2792,10 @@
         {
           "label": "!",
           "kind": "default"
+        },
+        {
+          "label": "⏰ ENDS SOON",
+          "kind": "soon"
         },
         {
           "label": "💰 BIG DISCOUNT",
@@ -2849,6 +3194,10 @@
           "kind": "default"
         },
         {
+          "label": "⏰ ENDS SOON",
+          "kind": "soon"
+        },
+        {
           "label": "💰 BIG DISCOUNT",
           "kind": "save"
         }
@@ -3013,6 +3362,10 @@
         {
           "label": "!",
           "kind": "default"
+        },
+        {
+          "label": "⏰ ENDS SOON",
+          "kind": "soon"
         },
         {
           "label": "🔥 HOT",
@@ -3866,7 +4219,16 @@
         "Samples",
         "Trap"
       ],
-      "badges": []
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "⏰ ENDS SOON",
+          "kind": "soon"
+        }
+      ]
     },
     {
       "id": "https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/14061-Hattricks-Drum-One-Shots-Bundle?a_aid=57ac3d39bf8f6&chan=APGDB",
@@ -3885,7 +4247,16 @@
         "Trap",
         "Samples"
       ],
-      "badges": []
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "⏰ ENDS SOON",
+          "kind": "soon"
+        }
+      ]
     },
     {
       "id": "https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/10007-Distiller?a_aid=57ac3d39bf8f6&chan=APGDB",
@@ -3904,7 +4275,16 @@
         "Bit Crusher",
         "Analyzer"
       ],
-      "badges": []
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "⏰ ENDS SOON",
+          "kind": "soon"
+        }
+      ]
     },
     {
       "id": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/7413-Hattricks-1-5?a_aid=57ac3d39bf8f6&chan=APGDB",
@@ -3923,7 +4303,16 @@
         "Filter",
         "MIDI"
       ],
-      "badges": []
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "⏰ ENDS SOON",
+          "kind": "soon"
+        }
+      ]
     },
     {
       "id": "https://www.pluginboutique.com/product/1-Instruments/5-Sampler/16216-LAYER-IT?a_aid=57ac3d39bf8f6&chan=APGDB",
@@ -3942,7 +4331,16 @@
         "Distortion",
         "EQ"
       ],
-      "badges": []
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "⏰ ENDS SOON",
+          "kind": "soon"
+        }
+      ]
     },
     {
       "id": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/5932-Subdivine?a_aid=57ac3d39bf8f6&chan=APGDB",
@@ -3961,7 +4359,16 @@
         "Trap",
         "Hip Hop"
       ],
-      "badges": []
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "⏰ ENDS SOON",
+          "kind": "soon"
+        }
+      ]
     },
     {
       "id": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/16951-Grainferno?a_aid=57ac3d39bf8f6&chan=APGDB",
@@ -4205,7 +4612,16 @@
       "ends": "2026-10-05",
       "dateAdded": "2026-09-22",
       "tags": [],
-      "badges": []
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "⏰ ENDS SOON",
+          "kind": "soon"
+        }
+      ]
     },
     {
       "id": "https://parishaudio.com/products/vocal-smoother",
@@ -4775,7 +5191,16 @@
         "Instruments",
         "Choir"
       ],
-      "badges": []
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "⏰ ENDS SOON",
+          "kind": "soon"
+        }
+      ]
     },
     {
       "id": "https://www.pluginboutique.com/product/81-Bundles/97-Various-Category/17913-LUNA-Studio-UAD-Native-Pro-Bundle?a_aid=57ac3d39bf8f6&chan=APGDB",
@@ -4998,7 +5423,16 @@
         "Impulse Response",
         "Bundle"
       ],
-      "badges": []
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "⏰ ENDS SOON",
+          "kind": "soon"
+        }
+      ]
     },
     {
       "id": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/11880-Philicorda?a_aid=57ac3d39bf8f6&chan=APGDB",
@@ -5017,7 +5451,16 @@
         "Spring",
         "Overdrive"
       ],
-      "badges": []
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "⏰ ENDS SOON",
+          "kind": "soon"
+        }
+      ]
     },
     {
       "id": "https://www.pluginboutique.com/deals/24015?a_aid=57ac3d39bf8f6&chan=APGDB",
@@ -5974,40 +6417,6 @@
       ]
     },
     {
-      "id": "https://www.acustica-audio.com/",
-      "title": "Acustica Audio Autumn Specials – up to 80% off on plugins and bundles. Plus, Fire The Tube free with purchases of €49 or more.",
-      "developer": "Acustica Audio",
-      "url": "https://www.acustica-audio.com/",
-      "discount": 80,
-      "free": false,
-      "ends": "2026-10-03",
-      "dateAdded": "2026-09-06",
-      "tags": [
-        "Effects",
-        "Tools",
-        "Suite",
-        "Synth"
-      ],
-      "badges": [
-        {
-          "label": "!",
-          "kind": "default"
-        },
-        {
-          "label": "⏰ ENDS SOON",
-          "kind": "soon"
-        },
-        {
-          "label": "🔥 HOT",
-          "kind": "hot"
-        },
-        {
-          "label": "💰 BIG DISCOUNT",
-          "kind": "save"
-        }
-      ]
-    },
-    {
       "id": "https://www.audioloom.com/",
       "title": "Audioloom Labor Day Sale – up to 80% off on plugins, samples libraries and sound packs by different developers.",
       "developer": "Audioloom",
@@ -6195,34 +6604,6 @@
       "badges": []
     },
     {
-      "id": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/17805-Supra?a_aid=57ac3d39bf8f6&chan=APGDB",
-      "title": "Get 75% off Supra by W. A. Production. The discounted price is $14.90.",
-      "developer": "W. A. Production",
-      "url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/17805-Supra?a_aid=57ac3d39bf8f6&chan=APGDB",
-      "discount": 75,
-      "free": false,
-      "ends": "2026-10-04",
-      "dateAdded": "2026-09-03",
-      "tags": [
-        "Synth",
-        "Granular",
-        "FM",
-        "Filter",
-        "Delay",
-        "Randomizer"
-      ],
-      "badges": [
-        {
-          "label": "!",
-          "kind": "default"
-        },
-        {
-          "label": "⏰ ENDS SOON",
-          "kind": "soon"
-        }
-      ]
-    },
-    {
       "id": "https://djwaudio.co/#pulseq",
       "title": "Pulseq DJW Audio is a Pultec-inspired EQ plug-in, currently available for free. MacOS only.",
       "developer": "DJW Audio",
@@ -6243,84 +6624,6 @@
         {
           "label": "🎁 FREEBIE",
           "kind": "freebie"
-        }
-      ]
-    },
-    {
-      "id": "https://ovniaudio.com/supernova",
-      "title": "OVNI Audio has released Supernova audio-reactive visual synth plugin and standalone for Mac. Ready-to-use installers for Supernova are free.",
-      "developer": "OVNI Audio",
-      "url": "https://ovniaudio.com/supernova",
-      "discount": 100,
-      "free": true,
-      "ends": "2026-11-23",
-      "dateAdded": "2026-09-02",
-      "tags": [
-        "FREE",
-        "Instruments",
-        "Synth",
-        "Visualization"
-      ],
-      "badges": [
-        {
-          "label": "!",
-          "kind": "default"
-        },
-        {
-          "label": "🎁 FREEBIE",
-          "kind": "freebie"
-        }
-      ]
-    },
-    {
-      "id": "https://github.com/ovniaudio/orbita",
-      "title": "OVNI Audio has released Orbit, a free binaural movement plugin for Win & Mac.",
-      "developer": "OVNI Audio",
-      "url": "https://github.com/ovniaudio/orbita",
-      "discount": 100,
-      "free": true,
-      "ends": null,
-      "dateAdded": "2026-09-02",
-      "tags": [
-        "Freebie",
-        "Effects",
-        "Spatial",
-        "Binaural"
-      ],
-      "badges": [
-        {
-          "label": "!",
-          "kind": "default"
-        },
-        {
-          "label": "🎁 FREEBIE",
-          "kind": "freebie"
-        }
-      ]
-    },
-    {
-      "id": "https://www.airmusictech.com/effects/stereophonic-bundle/",
-      "title": "AIR MusicTech has released Stereophonic Bundle, including Stereophonic EQP and Stereophonic Enhancer plugins for Win & Mac. The intro is 54% off.",
-      "developer": "AIR Music Technology",
-      "url": "https://www.airmusictech.com/effects/stereophonic-bundle/",
-      "discount": 54,
-      "free": false,
-      "ends": null,
-      "dateAdded": "2026-09-02",
-      "tags": [
-        "Effects",
-        "Bundle",
-        "EQ",
-        "Enhancer"
-      ],
-      "badges": [
-        {
-          "label": "!",
-          "kind": "default"
-        },
-        {
-          "label": "🔥 HOT",
-          "kind": "hot"
         }
       ]
     }
