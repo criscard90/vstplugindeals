@@ -2,7 +2,7 @@
   "ok": true,
   "source": "audiopluginguy.com/deals",
   "sourceUrl": "https://www.audiopluginguy.com/deals/",
-  "fetchedAt": "2026-10-03T06:21:46.091Z",
+  "fetchedAt": "2026-10-03T12:26:28.294Z",
   "stats": {
     "rows": 308,
     "free": 45,
@@ -35,7 +35,7 @@
     {
       "id": "https://audiodeluxe.com/collections/software/products/solid-state-logic-ssl-native-channel-strip-2?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
       "title": "Get 87% off SSL Channel Strip 2 at Audio Deluxe. The discounted price is $19.",
-      "developer": "",
+      "developer": "Solid State Logic",
       "url": "https://audiodeluxe.com/collections/software/products/solid-state-logic-ssl-native-channel-strip-2?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
       "discount": 87,
       "free": false,
@@ -48,6 +48,10 @@
           "kind": "default"
         },
         {
+          "label": "🔥 HOT",
+          "kind": "hot"
+        },
+        {
           "label": "💰 BIG DISCOUNT",
           "kind": "save"
         }
@@ -56,7 +60,7 @@
     {
       "id": "https://audiodeluxe.com/collections/software/products/harrison-32classic-channel-strip?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
       "title": "Get 83% off Harrison 32Classic Channel Strip at Audio Deluxe. The discounted price is $24.",
-      "developer": "",
+      "developer": "Harrison Audio",
       "url": "https://audiodeluxe.com/collections/software/products/harrison-32classic-channel-strip?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
       "discount": 83,
       "free": false,
@@ -69,6 +73,14 @@
           "kind": "default"
         },
         {
+          "label": "👍 RECOMMENDED",
+          "kind": "rec"
+        },
+        {
+          "label": "🔥 HOT",
+          "kind": "hot"
+        },
+        {
           "label": "💰 BIG DISCOUNT",
           "kind": "save"
         }
@@ -77,7 +89,7 @@
     {
       "id": "https://audiodeluxe.com/collections/software/products/uvi-darklight-iix?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
       "title": "Get 80% off UVI Darklight IIx at Audio Deluxe. The discounted price is $19.",
-      "developer": "",
+      "developer": "UVI",
       "url": "https://audiodeluxe.com/collections/software/products/uvi-darklight-iix?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
       "discount": 80,
       "free": false,
@@ -90,6 +102,10 @@
           "kind": "default"
         },
         {
+          "label": "🔥 HOT",
+          "kind": "hot"
+        },
+        {
           "label": "💰 BIG DISCOUNT",
           "kind": "save"
         }
@@ -98,7 +114,7 @@
     {
       "id": "https://audiodeluxe.com/collections/software/products/uvi-beast?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
       "title": "Get 80% off UVI The Beast at Audio Deluxe. The discounted price is $19.",
-      "developer": "",
+      "developer": "UVI",
       "url": "https://audiodeluxe.com/collections/software/products/uvi-beast?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
       "discount": 80,
       "free": false,
@@ -109,6 +125,10 @@
         {
           "label": "!",
           "kind": "default"
+        },
+        {
+          "label": "🔥 HOT",
+          "kind": "hot"
         },
         {
           "label": "💰 BIG DISCOUNT",
@@ -228,7 +248,7 @@
     {
       "id": "https://audiodeluxe.com/collections/software/products/eastwest-hollywood-fantasy-voices?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
       "title": "Get 47% off EastWest Hollywood Fantasy Voices at Audio Deluxe. The discounted price is $52.",
-      "developer": "",
+      "developer": "EastWest",
       "url": "https://audiodeluxe.com/collections/software/products/eastwest-hollywood-fantasy-voices?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
       "discount": 47,
       "free": false,
@@ -240,26 +260,44 @@
     {
       "id": "https://audiodeluxe.com/collections/software/products/solid-state-logic-ssl-module8?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
       "title": "Get 40% off SSL Module8 at Audio Deluxe. The discounted price is $29.",
-      "developer": "",
+      "developer": "Solid State Logic",
       "url": "https://audiodeluxe.com/collections/software/products/solid-state-logic-ssl-module8?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
       "discount": 40,
       "free": false,
       "ends": "2026-10-15",
       "dateAdded": "2026-10-02",
       "tags": [],
-      "badges": []
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🔥 HOT",
+          "kind": "hot"
+        }
+      ]
     },
     {
       "id": "https://audiodeluxe.com/collections/software/products/ssl-sourcerer?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
       "title": "Get 40% off SSL Sourcerer at Audio Deluxe. The discounted price is $29.",
-      "developer": "",
+      "developer": "Solid State Logic",
       "url": "https://audiodeluxe.com/collections/software/products/ssl-sourcerer?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
       "discount": 40,
       "free": false,
       "ends": "2026-10-15",
       "dateAdded": "2026-10-02",
       "tags": [],
-      "badges": []
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🔥 HOT",
+          "kind": "hot"
+        }
+      ]
     },
     {
       "id": "https://www.pluginboutique.com/product/2-Effects/45-Granular-FX/17714-Lucid?a_aid=57ac3d39bf8f6&chan=APGDB",
