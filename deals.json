@@ -2,15 +2,57 @@
   "ok": true,
   "source": "audiopluginguy.com/deals",
   "sourceUrl": "https://www.audiopluginguy.com/deals/",
-  "fetchedAt": "2026-10-03T17:10:59.542Z",
+  "fetchedAt": "2026-10-03T21:06:44.416Z",
   "stats": {
-    "rows": 308,
+    "rows": 310,
     "free": 45,
-    "kept": 304,
+    "kept": 306,
     "skipped": 0,
     "duplicates": 4
   },
   "deals": [
+    {
+      "id": "https://audiodeluxe.com/collections/software/products/slate-digital-verbsuite-classics?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "title": "Get 67% off Slate Digital VerbSuite Classics at Audio Deluxe. The discounted price is $49.",
+      "developer": "",
+      "url": "https://audiodeluxe.com/collections/software/products/slate-digital-verbsuite-classics?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "discount": 67,
+      "free": false,
+      "ends": "2026-10-15",
+      "dateAdded": "2026-10-03",
+      "tags": [],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://audiodeluxe.com/collections/software/products/slate-digital-vmr-essentials?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "title": "Get 50% off Slate Digital VMR Essentials at Audio Deluxe. The discounted price is $24.50.",
+      "developer": "",
+      "url": "https://audiodeluxe.com/collections/software/products/slate-digital-vmr-essentials?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "discount": 50,
+      "free": false,
+      "ends": "2026-10-15",
+      "dateAdded": "2026-10-03",
+      "tags": [],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
     {
       "id": "https://audioplugin.deals/product/deepstereo-reverb-lite-by-leson/ref/21/",
       "title": "Get DeepStereo Reverb Lite by Leson free, normally $19.99.",
