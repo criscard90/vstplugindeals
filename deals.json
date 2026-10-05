@@ -2,15 +2,590 @@
   "ok": true,
   "source": "audiopluginguy.com/deals",
   "sourceUrl": "https://www.audiopluginguy.com/deals/",
-  "fetchedAt": "2026-10-05T06:52:07.446Z",
+  "fetchedAt": "2026-10-05T15:52:44.776Z",
   "stats": {
-    "rows": 279,
+    "rows": 300,
     "free": 45,
-    "kept": 277,
+    "kept": 297,
     "skipped": 0,
-    "duplicates": 2
+    "duplicates": 3
   },
   "deals": [
+    {
+      "id": "https://audioplugin.deals/product/october-mega-bundle/ref/21/",
+      "title": "Get 98% off the Audio Plugin Deals October Mega Bundle for $9.99 (Normally $477.31).",
+      "developer": "Various",
+      "url": "https://audioplugin.deals/product/october-mega-bundle/ref/21/",
+      "discount": 98,
+      "free": false,
+      "ends": "2026-10-31",
+      "dateAdded": "2026-10-05",
+      "tags": [],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        },
+        {
+          "label": "💰 BIG DISCOUNT",
+          "kind": "save"
+        }
+      ]
+    },
+    {
+      "id": "https://audioplugin.deals/product/eastwest-pianos-platinum-bundle-forbidden-planet-free/ref/21/",
+      "title": "Get 80% off EastWest Pianos Platinum Bundle + Forbidden Planet FREE for $59 (Normally $299).",
+      "developer": "EastWest Sounds",
+      "url": "https://audioplugin.deals/product/eastwest-pianos-platinum-bundle-forbidden-planet-free/ref/21/",
+      "discount": 80,
+      "free": false,
+      "ends": "2026-10-11",
+      "dateAdded": "2026-10-05",
+      "tags": [],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        },
+        {
+          "label": "💰 BIG DISCOUNT",
+          "kind": "save"
+        }
+      ]
+    },
+    {
+      "id": "https://www.pluginboutique.com/product/2-Effects/36-Transient-Shaper/2245-Oxford-TransMod?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get 75% off Oxford TransMod by Sonnox. The discounted price is $39.",
+      "developer": "Sonnox",
+      "url": "https://www.pluginboutique.com/product/2-Effects/36-Transient-Shaper/2245-Oxford-TransMod?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 75,
+      "free": false,
+      "ends": "2026-10-25",
+      "dateAdded": "2026-10-05",
+      "tags": [
+        "Transient Shaper",
+        "Dynamics",
+        "Drum",
+        "Saturation",
+        "Overdrive",
+        "Mix & Master"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        },
+        {
+          "label": "🔥 HOT",
+          "kind": "hot"
+        }
+      ]
+    },
+    {
+      "id": "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/17955-MDrumBundle?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get 74% off MDrumBundle by MeldaProduction. The discounted price is $249.",
+      "developer": "MeldaProduction",
+      "url": "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/17955-MDrumBundle?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 74,
+      "free": false,
+      "ends": "2026-10-18",
+      "dateAdded": "2026-10-05",
+      "tags": [
+        "Bundle",
+        "Drum",
+        "Percussion",
+        "Mixing",
+        "Audio Restoration",
+        "Drum Replacer"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        },
+        {
+          "label": "🔥 HOT",
+          "kind": "hot"
+        }
+      ]
+    },
+    {
+      "id": "https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/16333-Tape-Wobble?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get 73% off Tape Wobble by Native Instruments. The discounted price is $5.",
+      "developer": "Native Instruments",
+      "url": "https://www.pluginboutique.com/product/2-Effects/96-Tape-Emulation/16333-Tape-Wobble?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 73,
+      "free": false,
+      "ends": "2026-11-01",
+      "dateAdded": "2026-10-05",
+      "tags": [
+        "Tape",
+        "Tape Emulation",
+        "LoFi",
+        "Saturation",
+        "Analog",
+        "Effects"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        },
+        {
+          "label": "🔥 HOT",
+          "kind": "hot"
+        }
+      ]
+    },
+    {
+      "id": "https://www.pluginboutique.com/product/2-Effects/30-Distortion/16334-Kolor?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get 73% off Kolor by Native Instruments. The discounted price is $5.",
+      "developer": "Native Instruments",
+      "url": "https://www.pluginboutique.com/product/2-Effects/30-Distortion/16334-Kolor?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 73,
+      "free": false,
+      "ends": "2026-11-01",
+      "dateAdded": "2026-10-05",
+      "tags": [
+        "Distortion",
+        "Saturation",
+        "Analog",
+        "Emulation",
+        "LoFi",
+        "Effects"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        },
+        {
+          "label": "🔥 HOT",
+          "kind": "hot"
+        }
+      ]
+    },
+    {
+      "id": "https://www.pluginboutique.com/product/2-Effects/10-Delay/16332-Psyche-Delay?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get 73% off Psyche Delay by Native Instruments. The discounted price is $5.",
+      "developer": "Native Instruments",
+      "url": "https://www.pluginboutique.com/product/2-Effects/10-Delay/16332-Psyche-Delay?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 73,
+      "free": false,
+      "ends": "2026-11-01",
+      "dateAdded": "2026-10-05",
+      "tags": [
+        "Delay",
+        "Stereo",
+        "Ambient",
+        "Echo",
+        "Reverser",
+        "Effects"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        },
+        {
+          "label": "🔥 HOT",
+          "kind": "hot"
+        }
+      ]
+    },
+    {
+      "id": "https://audioplugin.deals/product/key-by-auddict/ref/21/",
+      "title": "Get 70% off Key by Auddict for $39 (Normally $130).",
+      "developer": "Auddict",
+      "url": "https://audioplugin.deals/product/key-by-auddict/ref/21/",
+      "discount": 70,
+      "free": false,
+      "ends": "2026-10-18",
+      "dateAdded": "2026-10-05",
+      "tags": [],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/1347-MDrumLeveler?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get 69% off MDrumLeveler by MeldaProduction. The discounted price is $50.",
+      "developer": "MeldaProduction",
+      "url": "https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/1347-MDrumLeveler?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 69,
+      "free": false,
+      "ends": "2026-10-18",
+      "dateAdded": "2026-10-05",
+      "tags": [
+        "Drum Tools",
+        "Dynamics",
+        "Envelope Shaper",
+        "Gate",
+        "Limiter",
+        "Modulation"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        },
+        {
+          "label": "🔥 HOT",
+          "kind": "hot"
+        }
+      ]
+    },
+    {
+      "id": "https://www.pluginboutique.com/product/1-Instruments/5-Sampler/16637-Prisma?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get 67% off Prisma by UVI. The discounted price is $49.",
+      "developer": "UVI",
+      "url": "https://www.pluginboutique.com/product/1-Instruments/5-Sampler/16637-Prisma?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 67,
+      "free": false,
+      "ends": "2026-10-12",
+      "dateAdded": "2026-10-05",
+      "tags": [
+        "Sampler",
+        "Instruments",
+        "Synth",
+        "Drum Machine",
+        "Effects",
+        "MPE"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        },
+        {
+          "label": "🔥 HOT",
+          "kind": "hot"
+        }
+      ]
+    },
+    {
+      "id": "https://www.pluginboutique.com/product/3-Studio-Tools/80-Drum-Tools/7163-MDrumReplacer?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get 54% off MDrumReplacer by MeldaProduction. The discounted price is $75.",
+      "developer": "MeldaProduction",
+      "url": "https://www.pluginboutique.com/product/3-Studio-Tools/80-Drum-Tools/7163-MDrumReplacer?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 54,
+      "free": false,
+      "ends": "2026-10-18",
+      "dateAdded": "2026-10-05",
+      "tags": [
+        "Drum Replacer",
+        "Drum Tools",
+        "Samples",
+        "Limiter",
+        "Modulation",
+        "MIDI"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        },
+        {
+          "label": "🔥 HOT",
+          "kind": "hot"
+        }
+      ]
+    },
+    {
+      "id": "https://www.pluginboutique.com/product/2-Effects/42-Enhancer/1655-MDrumEnhancer?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get 54% off MDrumEnhancer by MeldaProduction. The discounted price is $75.",
+      "developer": "MeldaProduction",
+      "url": "https://www.pluginboutique.com/product/2-Effects/42-Enhancer/1655-MDrumEnhancer?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 54,
+      "free": false,
+      "ends": "2026-10-18",
+      "dateAdded": "2026-10-05",
+      "tags": [
+        "Enhancer",
+        "Drum",
+        "Modulation",
+        "LFO",
+        "MidSide",
+        "Limiter"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        },
+        {
+          "label": "🔥 HOT",
+          "kind": "hot"
+        }
+      ]
+    },
+    {
+      "id": "https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/10655-MDrumStrip?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get 54% off MDrumStrip by MeldaProduction. The discounted price is $150.",
+      "developer": "MeldaProduction",
+      "url": "https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/10655-MDrumStrip?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 54,
+      "free": false,
+      "ends": "2026-10-18",
+      "dateAdded": "2026-10-05",
+      "tags": [
+        "Channel Strip",
+        "Drum",
+        "EQ",
+        "Compressor",
+        "Gate",
+        "Reverb"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        },
+        {
+          "label": "🔥 HOT",
+          "kind": "hot"
+        }
+      ]
+    },
+    {
+      "id": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/1133-MDrummer?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get 54% off MDrummer by MeldaProduction. The discounted price is $125.",
+      "developer": "MeldaProduction",
+      "url": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/1133-MDrummer?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 54,
+      "free": false,
+      "ends": "2026-10-18",
+      "dateAdded": "2026-10-05",
+      "tags": [
+        "Drum Machine",
+        "Virtual Instrument",
+        "Sampler",
+        "Synth",
+        "Sequencer",
+        "Effects"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        },
+        {
+          "label": "🔥 HOT",
+          "kind": "hot"
+        }
+      ]
+    },
+    {
+      "id": "https://audyo-engineering.com/princesspitch.html",
+      "title": "Get 50% off Princess Pitch for Twin Pitch owners.",
+      "developer": "auDYo engineering",
+      "url": "https://audyo-engineering.com/princesspitch.html",
+      "discount": 50,
+      "free": false,
+      "ends": "2026-11-30",
+      "dateAdded": "2026-10-05",
+      "tags": [
+        "Effects",
+        "Pitch Shifter",
+        "Effects Bundle",
+        "Stereo Width"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/9541-Phoscyon-2?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get 50% off Phoscyon 2 by D16 Group. The discounted price is $59.",
+      "developer": "D16 Group",
+      "url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/9541-Phoscyon-2?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 50,
+      "free": false,
+      "ends": "2026-10-11",
+      "dateAdded": "2026-10-05",
+      "tags": [
+        "Synth",
+        "Emulation",
+        "Bassline",
+        "Sequencer",
+        "Arpeggiator",
+        "Distortion"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/15793-Evoke?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get 38% off Evoke by Minimal Audio. The discounted price is $79.",
+      "developer": "Minimal Audio",
+      "url": "https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/15793-Evoke?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 38,
+      "free": false,
+      "ends": "2026-10-31",
+      "dateAdded": "2026-10-05",
+      "tags": [
+        "Vocal Processing",
+        "Vocoder",
+        "Pitch",
+        "Modulation",
+        "LFO",
+        "Effects"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://alienplugins.com/",
+      "title": "Get 30% off every product from Alien Plugins with coupon code: GRAND30.",
+      "developer": "Alien Plugins",
+      "url": "https://alienplugins.com/",
+      "discount": 30,
+      "free": false,
+      "ends": "2026-10-31",
+      "dateAdded": "2026-10-05",
+      "tags": [],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://wavefoldlabs.com/products/gaussian-blur",
+      "title": "Wavefold Labs has released Gaussian Blur, a granular bloom reverb for Mac, Linux, and Windows. 20% off.",
+      "developer": "Wavefold Labs",
+      "url": "https://wavefoldlabs.com/products/gaussian-blur",
+      "discount": 20,
+      "free": false,
+      "ends": "2026-10-26",
+      "dateAdded": "2026-10-05",
+      "tags": [],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/17444-Prophet-5?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get 17% off Prophet~5 by GForce Software. The discounted price is $99.",
+      "developer": "GForce Software",
+      "url": "https://www.pluginboutique.com/product/1-Instruments/4-Synth/17444-Prophet-5?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 17,
+      "free": false,
+      "ends": "2026-10-19",
+      "dateAdded": "2026-10-05",
+      "tags": [
+        "Synth",
+        "Analog",
+        "Emulation",
+        "Arpeggiator",
+        "Effects",
+        "MPE"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
     {
       "id": "https://dawjunkie.com/op/convolute/",
       "title": "DAWJunkie has released Convolute, a free reverb for Mac & Win.",
@@ -329,7 +904,7 @@
     {
       "id": "https://audiodeluxe.com/collections/software/products/slate-digital-verbsuite-classics?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
       "title": "Get 67% off Slate Digital VerbSuite Classics at Audio Deluxe. The discounted price is $49.",
-      "developer": "",
+      "developer": "Slate Digital",
       "url": "https://audiodeluxe.com/collections/software/products/slate-digital-verbsuite-classics?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
       "discount": 67,
       "free": false,
@@ -341,7 +916,7 @@
     {
       "id": "https://audiodeluxe.com/collections/software/products/slate-digital-vmr-essentials?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
       "title": "Get 50% off Slate Digital VMR Essentials at Audio Deluxe. The discounted price is $24.50.",
-      "developer": "",
+      "developer": "Slate Digital",
       "url": "https://audiodeluxe.com/collections/software/products/slate-digital-vmr-essentials?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
       "discount": 50,
       "free": false,
@@ -439,6 +1014,10 @@
         {
           "label": "!",
           "kind": "default"
+        },
+        {
+          "label": "👍 RECOMMENDED",
+          "kind": "rec"
         },
         {
           "label": "🔥 HOT",
@@ -2821,6 +3400,31 @@
       ]
     },
     {
+      "id": "https://www.pizzabagelplugins.com",
+      "title": "Get 67% off JJG Vocals from Pizza Bagel Plugins for $49, plus 50% off with code FIRST1000.",
+      "developer": "Pizza Bagel Plugins",
+      "url": "https://www.pizzabagelplugins.com",
+      "discount": 67,
+      "free": false,
+      "ends": null,
+      "dateAdded": "2026-09-30",
+      "tags": [
+        "Effects",
+        "Vocal",
+        "Vocal Processing"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
       "id": "https://audiodeluxe.com/collections/software/products/eastwest-lo-fi?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
       "title": "Get 67% off EastWest LO-FI at Audio Deluxe. The discounted price is $49.",
       "developer": "EastWest",
@@ -2851,22 +3455,6 @@
       "ends": null,
       "dateAdded": "2026-09-30",
       "tags": [],
-      "badges": []
-    },
-    {
-      "id": "https://www.pizzabagelplugins.com",
-      "title": "Get 50% off everything at Pizza Bagel Plugins with coupon code FIRST1000 (first 1000 orders only).",
-      "developer": "Pizza Bagel Plugins",
-      "url": "https://www.pizzabagelplugins.com",
-      "discount": 50,
-      "free": false,
-      "ends": null,
-      "dateAdded": "2026-09-30",
-      "tags": [
-        "Effects",
-        "Vocal",
-        "Vocal Processing"
-      ],
       "badges": []
     },
     {
