@@ -2,15 +2,426 @@
   "ok": true,
   "source": "audiopluginguy.com/deals",
   "sourceUrl": "https://www.audiopluginguy.com/deals/",
-  "fetchedAt": "2026-10-04T17:26:40.622Z",
+  "fetchedAt": "2026-10-05T00:45:37.321Z",
   "stats": {
-    "rows": 285,
-    "free": 43,
-    "kept": 282,
+    "rows": 300,
+    "free": 47,
+    "kept": 297,
     "skipped": 0,
     "duplicates": 3
   },
   "deals": [
+    {
+      "id": "https://dawjunkie.com/op/convolute/",
+      "title": "DAWJunkie has released Convolute, a free reverb for Mac & Win.",
+      "developer": "DAWJunkie",
+      "url": "https://dawjunkie.com/op/convolute/",
+      "discount": 100,
+      "free": true,
+      "ends": null,
+      "dateAdded": "2026-10-04",
+      "tags": [
+        "Freebie",
+        "Effects",
+        "Reverb",
+        "Convolution"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        },
+        {
+          "label": "🎁 FREEBIE",
+          "kind": "freebie"
+        }
+      ]
+    },
+    {
+      "id": "https://plugin-alliance.sjv.io/deals",
+      "title": "Apogee Soft Limit limiter and saturation plugin is free again following its move to Plugin Alliance.",
+      "developer": "Apogee",
+      "url": "https://plugin-alliance.sjv.io/deals",
+      "discount": 100,
+      "free": true,
+      "ends": null,
+      "dateAdded": "2026-10-04",
+      "tags": [
+        "Freebie",
+        "Effects",
+        "Limiter",
+        "FREE",
+        "Tape",
+        "Emulation"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        },
+        {
+          "label": "🎁 FREEBIE",
+          "kind": "freebie"
+        }
+      ]
+    },
+    {
+      "id": "https://www.bluecataudio.com/Products/Product_FreeAmp/",
+      "title": "Blue Cat Audio has released Blue Cat’s Free Amp 2.0, a free guitar and bass amp simulation plugin for Mac & Win.",
+      "developer": "Blue Cat Audio",
+      "url": "https://www.bluecataudio.com/Products/Product_FreeAmp/",
+      "discount": 100,
+      "free": true,
+      "ends": null,
+      "dateAdded": "2026-10-04",
+      "tags": [
+        "Freebie",
+        "Effects",
+        "Amp Sim"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        },
+        {
+          "label": "🎁 FREEBIE",
+          "kind": "freebie"
+        },
+        {
+          "label": "🔥 HOT",
+          "kind": "hot"
+        }
+      ]
+    },
+    {
+      "id": "https://www.hornetplugins.com/elm128-mk2-free/",
+      "title": "HoRNet Plugins is offering ELM128 MK2 loudness meter plugin as a free download. Use the coupon code: ELMFREE.",
+      "developer": "HoRNet Plugins",
+      "url": "https://www.hornetplugins.com/elm128-mk2-free/",
+      "discount": 100,
+      "free": true,
+      "ends": "2026-10-08",
+      "dateAdded": "2026-10-04",
+      "tags": [
+        "FREE",
+        "Effects",
+        "Loudness",
+        "Metering"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        },
+        {
+          "label": "🎁 FREEBIE",
+          "kind": "freebie"
+        }
+      ]
+    },
+    {
+      "id": "https://www.ueberschall.com/products",
+      "title": "Ueberschall Fall Sale – up to 90% off on sample libraries and loop packs.",
+      "developer": "Ueberschall",
+      "url": "https://www.ueberschall.com/products",
+      "discount": 90,
+      "free": false,
+      "ends": "2026-10-18",
+      "dateAdded": "2026-10-04",
+      "tags": [
+        "Samples",
+        "Loops",
+        "Instruments",
+        "Packs"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        },
+        {
+          "label": "💰 BIG DISCOUNT",
+          "kind": "save"
+        }
+      ]
+    },
+    {
+      "id": "https://store.solidstatelogic.com/plug-ins/ssl-reverb-collection",
+      "title": "Solid State Logic is offering 86% off on SSL Reverb Collection bundle, featuring 4 reverb plugins.",
+      "developer": "Solid State Logic",
+      "url": "https://store.solidstatelogic.com/plug-ins/ssl-reverb-collection",
+      "discount": 86,
+      "free": false,
+      "ends": "2026-10-14",
+      "dateAdded": "2026-10-04",
+      "tags": [
+        "Effects",
+        "Reverb",
+        "Bundle"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        },
+        {
+          "label": "🔥 HOT",
+          "kind": "hot"
+        },
+        {
+          "label": "💰 BIG DISCOUNT",
+          "kind": "save"
+        }
+      ]
+    },
+    {
+      "id": "https://www.boldersounds.com/",
+      "title": "Bolder Sounds Fall Sale – up to 60% off on selected libraries.",
+      "developer": "Bolder Sounds",
+      "url": "https://www.boldersounds.com/",
+      "discount": 60,
+      "free": false,
+      "ends": null,
+      "dateAdded": "2026-10-04",
+      "tags": [
+        "Instruments",
+        "Library",
+        "Kontakt",
+        "LogicX"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://vstalarm.com/product/inexa-by-cloudy-samples/?wpam_id=14",
+      "title": "VST Alarm Exclusive Deals – 60% off on Cloudy Samples Inexa All-Purpose Round Robin Humanizer plugin.",
+      "developer": "Cloudy Samples",
+      "url": "https://vstalarm.com/product/inexa-by-cloudy-samples/?wpam_id=14",
+      "discount": 60,
+      "free": false,
+      "ends": "2026-10-19",
+      "dateAdded": "2026-10-04",
+      "tags": [
+        "Effects",
+        "Enhancer"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://plugin-alliance.sjv.io/pop-up-shop",
+      "title": "Apogee Electronics has joined Plugin Alliance with their studio standard tools. The intro is up to 66% off.",
+      "developer": "Apogee Electronics",
+      "url": "https://plugin-alliance.sjv.io/pop-up-shop",
+      "discount": 60,
+      "free": false,
+      "ends": null,
+      "dateAdded": "2026-10-04",
+      "tags": [
+        "Effects",
+        "Tools"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://www.lootaudio.com/category/plugins/image-line/fl-studio-fruity-edition?affid=fMorNKPLzP4MoHCj44pM6jghcBzdc8",
+      "title": "FL Studio Fruity Edition by Image Line is 51% off at Loot Audio.",
+      "developer": "Image-Line",
+      "url": "https://www.lootaudio.com/category/plugins/image-line/fl-studio-fruity-edition?affid=fMorNKPLzP4MoHCj44pM6jghcBzdc8",
+      "discount": 51,
+      "free": false,
+      "ends": "2026-10-07",
+      "dateAdded": "2026-10-04",
+      "tags": [
+        "DAW",
+        "Audio Editor"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://parishaudio.com/products/warpfield",
+      "title": "Parish Audio has released Warpfield time-manipulation plugin for Win & Mac. The intro is 50% off.",
+      "developer": "Parish Audio",
+      "url": "https://parishaudio.com/products/warpfield",
+      "discount": 50,
+      "free": false,
+      "ends": null,
+      "dateAdded": "2026-10-04",
+      "tags": [
+        "Effects",
+        "Time",
+        "Multi-Effect"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://virharmonic.com/",
+      "title": "Virharmonic Build Your Own Bundle Sale – up to 50% off when you add 2 or 3 instruments to the cart.",
+      "developer": "Virharmonic",
+      "url": "https://virharmonic.com/",
+      "discount": 50,
+      "free": false,
+      "ends": "2026-10-16",
+      "dateAdded": "2026-10-04",
+      "tags": [
+        "Instruments",
+        "Bundle"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://fluffyaudio.com/shop/fft/",
+      "title": "FluffyAudio has released FFT spectral editing, audio restoration and creative AI standalone editor for Mac & Win. The intr is 50% off.",
+      "developer": "FluffyAudio",
+      "url": "https://fluffyaudio.com/shop/fft/",
+      "discount": 50,
+      "free": false,
+      "ends": "2026-10-20",
+      "dateAdded": "2026-10-04",
+      "tags": [
+        "Audio Editor",
+        "Spectral Analysis",
+        "Audio Restoration",
+        "AI",
+        "Generator"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://www.194dbaudio.com/products/mythmelta-eq",
+      "title": "194dB Audio has released MythMelta EQ plugin for Win & Mac. The intro is 39% off.",
+      "developer": "194dB Audio",
+      "url": "https://www.194dbaudio.com/products/mythmelta-eq",
+      "discount": 39,
+      "free": false,
+      "ends": "2026-10-31",
+      "dateAdded": "2026-10-04",
+      "tags": [
+        "Effects",
+        "EQ"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://dstylesounds.com/rawl/products",
+      "title": "RAWL DNA Series Sale – up to 31% off on Harmonic DNA Reconstruction plugins and bundle.",
+      "developer": "RAWL",
+      "url": "https://dstylesounds.com/rawl/products",
+      "discount": 31,
+      "free": false,
+      "ends": "2026-10-14",
+      "dateAdded": "2026-10-04",
+      "tags": [
+        "Effects",
+        "Tools",
+        "Bundle"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
     {
       "id": "https://audiodeluxe.com/collections/software/products/slate-digital-verbsuite-classics?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
       "title": "Get 67% off Slate Digital VerbSuite Classics at Audio Deluxe. The discounted price is $49.",
