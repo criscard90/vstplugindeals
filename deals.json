@@ -2,11 +2,11 @@
   "ok": true,
   "source": "audiopluginguy.com/deals",
   "sourceUrl": "https://www.audiopluginguy.com/deals/",
-  "fetchedAt": "2026-10-05T15:52:44.776Z",
+  "fetchedAt": "2026-10-05T22:31:53.783Z",
   "stats": {
-    "rows": 300,
+    "rows": 303,
     "free": 45,
-    "kept": 297,
+    "kept": 300,
     "skipped": 0,
     "duplicates": 3
   },
@@ -435,6 +435,63 @@
       ]
     },
     {
+      "id": "https://www.pluginboutique.com/deals/24184?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get up to 50% off in the Glitchmachines Launch Sale.",
+      "developer": "Glitchmachines",
+      "url": "https://www.pluginboutique.com/deals/24184?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 50,
+      "free": false,
+      "ends": "2026-11-01",
+      "dateAdded": "2026-10-05",
+      "tags": [
+        "Synth",
+        "Effects",
+        "Instruments",
+        "Samples",
+        "DAW",
+        "Mixing",
+        "Mastering"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://www.pluginboutique.com/product/2-Effects/13-Drum-FX/17989-Stylust?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get 50% off Stylust by BeatSkillz. The discounted price is $39.",
+      "developer": "BeatSkillz",
+      "url": "https://www.pluginboutique.com/product/2-Effects/13-Drum-FX/17989-Stylust?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 50,
+      "free": false,
+      "ends": "2026-10-18",
+      "dateAdded": "2026-10-05",
+      "tags": [
+        "Drum FX",
+        "Bit Crusher",
+        "Tape",
+        "Vinyl",
+        "Compressor",
+        "EQ"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
       "id": "https://audyo-engineering.com/princesspitch.html",
       "title": "Get 50% off Princess Pitch for Twin Pitch owners.",
       "developer": "auDYo engineering",
@@ -476,6 +533,69 @@
         "Sequencer",
         "Arpeggiator",
         "Distortion"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://www.pluginboutique.com/deals/24200?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get up to 42% off in the Universal Audio Native Bundles Sale.",
+      "developer": "Universal Audio",
+      "url": "https://www.pluginboutique.com/deals/24200?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 42,
+      "free": false,
+      "ends": "2026-10-31",
+      "dateAdded": "2026-10-05",
+      "tags": [
+        "Synth",
+        "Effects",
+        "Instruments",
+        "Samples",
+        "Drum",
+        "Guitar",
+        "Vocal",
+        "Mixing"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        },
+        {
+          "label": "🔥 HOT",
+          "kind": "hot"
+        }
+      ]
+    },
+    {
+      "id": "https://www.pluginboutique.com/deals/24204?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get up to 40% off in the XLN Audio Addictive Drums 2 Custom Collection Plugin of the Week Sale.",
+      "developer": "XLN Audio",
+      "url": "https://www.pluginboutique.com/deals/24204?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 40,
+      "free": false,
+      "ends": "2026-10-12",
+      "dateAdded": "2026-10-05",
+      "tags": [
+        "Synth",
+        "Effects",
+        "Instruments",
+        "Samples",
+        "DAW",
+        "Mixing",
+        "Mastering"
       ],
       "badges": [
         {
@@ -3766,20 +3886,6 @@
         "Orchestral",
         "Bundle",
         "Halloween"
-      ],
-      "badges": []
-    },
-    {
-      "id": "https://unveilmusic.app/unveil-ai",
-      "title": "Get 60% off UnveilAI from Unveil with coupon code: APG60.",
-      "developer": "Unveil",
-      "url": "https://unveilmusic.app/unveil-ai",
-      "discount": 60,
-      "free": false,
-      "ends": null,
-      "dateAdded": "2026-09-29",
-      "tags": [
-        "Effects"
       ],
       "badges": []
     },
