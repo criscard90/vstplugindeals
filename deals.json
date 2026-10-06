@@ -2,15 +2,461 @@
   "ok": true,
   "source": "audiopluginguy.com/deals",
   "sourceUrl": "https://www.audiopluginguy.com/deals/",
-  "fetchedAt": "2026-10-06T16:43:16.055Z",
+  "fetchedAt": "2026-10-06T21:34:40.482Z",
   "stats": {
-    "rows": 288,
+    "rows": 311,
     "free": 41,
-    "kept": 285,
+    "kept": 307,
     "skipped": 0,
-    "duplicates": 3
+    "duplicates": 4
   },
   "deals": [
+    {
+      "id": "https://www.pluginboutique.com/deals/24209?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get up to 80% off in the Audio Blast Boutique Week Sale.",
+      "developer": "Audio Blast",
+      "url": "https://www.pluginboutique.com/deals/24209?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 80,
+      "free": false,
+      "ends": "2026-10-20",
+      "dateAdded": "2026-10-06",
+      "tags": [
+        "Synth",
+        "Effects",
+        "Instruments",
+        "Samples"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        },
+        {
+          "label": "💰 BIG DISCOUNT",
+          "kind": "save"
+        }
+      ]
+    },
+    {
+      "id": "https://audiodeluxe.com/collections/software/products/softube-harmonics?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "title": "Get 80% off Softube Harmonics at Audio Deluxe. The discounted price is $29.",
+      "developer": "",
+      "url": "https://audiodeluxe.com/collections/software/products/softube-harmonics?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "discount": 80,
+      "free": false,
+      "ends": "2026-10-19",
+      "dateAdded": "2026-10-06",
+      "tags": [],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        },
+        {
+          "label": "💰 BIG DISCOUNT",
+          "kind": "save"
+        }
+      ]
+    },
+    {
+      "id": "https://audiodeluxe.com/collections/software/products/softube-spring-reverb?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "title": "Get 67% off Softube Spring Reverb at Audio Deluxe. The discounted price is $29.",
+      "developer": "",
+      "url": "https://audiodeluxe.com/collections/software/products/softube-spring-reverb?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "discount": 67,
+      "free": false,
+      "ends": "2026-10-19",
+      "dateAdded": "2026-10-06",
+      "tags": [],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://audiodeluxe.com/collections/software/products/softube-weiss-mm-1-mastering-maximizer?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "title": "Get 67% off Softube Weiss MM-1 Mastering Maximizer at Audio Deluxe. The discounted price is $65.",
+      "developer": "",
+      "url": "https://audiodeluxe.com/collections/software/products/softube-weiss-mm-1-mastering-maximizer?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "discount": 67,
+      "free": false,
+      "ends": "2026-10-19",
+      "dateAdded": "2026-10-06",
+      "tags": [],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://audiodeluxe.com/collections/software/products/softube-weiss-gambit-series-console-1?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "title": "Get 66% off Softube Weiss Gambit Series for Console 1 at Audio Deluxe. The discounted price is $99.",
+      "developer": "",
+      "url": "https://audiodeluxe.com/collections/software/products/softube-weiss-gambit-series-console-1?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "discount": 66,
+      "free": false,
+      "ends": "2026-10-19",
+      "dateAdded": "2026-10-06",
+      "tags": [],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://audiodeluxe.com/collections/software/products/softube-vocal-tuner-and-deesser-bundle?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "title": "Get 66% off Softube Vocal Tuner and Deesser Bundle at Audio Deluxe. The discounted price is $99.",
+      "developer": "",
+      "url": "https://audiodeluxe.com/collections/software/products/softube-vocal-tuner-and-deesser-bundle?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "discount": 66,
+      "free": false,
+      "ends": "2026-10-19",
+      "dateAdded": "2026-10-06",
+      "tags": [],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://www.pluginboutique.com/deals/24213?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get up to 62% off in the Excite Audio Artist Focus Sale.",
+      "developer": "Excite Audio",
+      "url": "https://www.pluginboutique.com/deals/24213?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 62,
+      "free": false,
+      "ends": "2026-10-19",
+      "dateAdded": "2026-10-06",
+      "tags": [
+        "Synth",
+        "Effects",
+        "Virtual Instrument",
+        "Samples",
+        "Instruments",
+        "Production"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://www.pluginboutique.com/product/2-Effects/9-Limiter/9860-KNOCK-Clipper?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get 61% off KNOCK Clipper by KNOCK Audio. The discounted price is $19.",
+      "developer": "KNOCK Audio",
+      "url": "https://www.pluginboutique.com/product/2-Effects/9-Limiter/9860-KNOCK-Clipper?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 61,
+      "free": false,
+      "ends": "2026-10-31",
+      "dateAdded": "2026-10-06",
+      "tags": [
+        "Clipper",
+        "Distortion",
+        "Saturation",
+        "Dynamics",
+        "Effects"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://audiodeluxe.com/collections/software/products/tokyo-dawn-labs-tdr-molot-ge?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "title": "Get 60% off Tokyo Dawn Labs TDR Molot GE at Audio Deluxe. The discounted price is $20.",
+      "developer": "",
+      "url": "https://audiodeluxe.com/collections/software/products/tokyo-dawn-labs-tdr-molot-ge?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "discount": 60,
+      "free": false,
+      "ends": "2026-10-15",
+      "dateAdded": "2026-10-06",
+      "tags": [],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://audiodeluxe.com/collections/software/products/softube-chandler-limited%C2%AE-germanium-compressor?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "title": "Get 60% off Softube Chandler Limited® Germanium Compressor at Audio Deluxe. The discounted price is $99.",
+      "developer": "",
+      "url": "https://audiodeluxe.com/collections/software/products/softube-chandler-limited%C2%AE-germanium-compressor?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "discount": 60,
+      "free": false,
+      "ends": "2026-10-19",
+      "dateAdded": "2026-10-06",
+      "tags": [],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://audiodeluxe.com/collections/software/products/softube-empirical-labs-mike-e-comp?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "title": "Get 59% off Softube Empirical Labs Mike-E Comp at Audio Deluxe. The discounted price is $65.",
+      "developer": "",
+      "url": "https://audiodeluxe.com/collections/software/products/softube-empirical-labs-mike-e-comp?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "discount": 59,
+      "free": false,
+      "ends": "2026-10-19",
+      "dateAdded": "2026-10-06",
+      "tags": [],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://audiodeluxe.com/collections/software/products/softube-bus-processor?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "title": "Get 56% off Softube Bus Processor at Audio Deluxe. The discounted price is $65.",
+      "developer": "",
+      "url": "https://audiodeluxe.com/collections/software/products/softube-bus-processor?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "discount": 56,
+      "free": false,
+      "ends": "2026-10-19",
+      "dateAdded": "2026-10-06",
+      "tags": [],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://audiodeluxe.com/collections/software/products/softube-weiss-ds1-mk3?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "title": "Get 54% off Softube Weiss DS1-MK3 at Audio Deluxe. The discounted price is $249.",
+      "developer": "",
+      "url": "https://audiodeluxe.com/collections/software/products/softube-weiss-ds1-mk3?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "discount": 54,
+      "free": false,
+      "ends": "2026-10-19",
+      "dateAdded": "2026-10-06",
+      "tags": [],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://audiodeluxe.com/collections/software/products/tokyo-dawn-labs-tdr-special-filters-bundle?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "title": "Get 51% off Tokyo Dawn Labs TDR Special Filters Bundle at Audio Deluxe. The discounted price is $49.",
+      "developer": "",
+      "url": "https://audiodeluxe.com/collections/software/products/tokyo-dawn-labs-tdr-special-filters-bundle?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "discount": 51,
+      "free": false,
+      "ends": "2026-10-15",
+      "dateAdded": "2026-10-06",
+      "tags": [],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://audiodeluxe.com/collections/software/products/tokyo-dawn-labs-tdr-vos-slickeq-gentlemans-edition?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "title": "Get 50% off Tokyo Dawn Labs TDR VOS SlickEQ – Gentleman’s Edition at Audio Deluxe. The discounted price is $15.",
+      "developer": "",
+      "url": "https://audiodeluxe.com/collections/software/products/tokyo-dawn-labs-tdr-vos-slickeq-gentlemans-edition?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "discount": 50,
+      "free": false,
+      "ends": "2026-10-15",
+      "dateAdded": "2026-10-06",
+      "tags": [],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://audiodeluxe.com/collections/software/products/tokyo-dawn-labs-tdr-arbiter?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "title": "Get 50% off Tokyo Dawn Labs TDR Arbiter at Audio Deluxe. The discounted price is $25.",
+      "developer": "",
+      "url": "https://audiodeluxe.com/collections/software/products/tokyo-dawn-labs-tdr-arbiter?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "discount": 50,
+      "free": false,
+      "ends": "2026-10-15",
+      "dateAdded": "2026-10-06",
+      "tags": [],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://audiodeluxe.com/collections/software/products/tokyo-dawn-labs-tdr-elliptical?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "title": "Get 50% off Tokyo Dawn Labs TDR Elliptical at Audio Deluxe. The discounted price is $20.",
+      "developer": "",
+      "url": "https://audiodeluxe.com/collections/software/products/tokyo-dawn-labs-tdr-elliptical?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "discount": 50,
+      "free": false,
+      "ends": "2026-10-15",
+      "dateAdded": "2026-10-06",
+      "tags": [],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://audiodeluxe.com/collections/software/products/tokyo-dawn-labs-tdr-infrasonic-0?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "title": "Get 50% off Tokyo Dawn Labs TDR Infrasonic at Audio Deluxe. The discounted price is $20.",
+      "developer": "",
+      "url": "https://audiodeluxe.com/collections/software/products/tokyo-dawn-labs-tdr-infrasonic-0?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "discount": 50,
+      "free": false,
+      "ends": "2026-10-15",
+      "dateAdded": "2026-10-06",
+      "tags": [],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://audiodeluxe.com/collections/software/products/tokyo-dawn-labs-tdr-ultrasonic?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "title": "Get 50% off Tokyo Dawn Labs TDR Ultrasonic at Audio Deluxe. The discounted price is $15.",
+      "developer": "",
+      "url": "https://audiodeluxe.com/collections/software/products/tokyo-dawn-labs-tdr-ultrasonic?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "discount": 50,
+      "free": false,
+      "ends": "2026-10-15",
+      "dateAdded": "2026-10-06",
+      "tags": [],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://audiodeluxe.com/collections/software/products/softube-tape?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "title": "Get 50% off Softube Tape at Audio Deluxe. The discounted price is $49.",
+      "developer": "",
+      "url": "https://audiodeluxe.com/collections/software/products/softube-tape?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "discount": 50,
+      "free": false,
+      "ends": "2026-10-19",
+      "dateAdded": "2026-10-06",
+      "tags": [],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
     {
       "id": "https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/17963-HyperWarp?a_aid=57ac3d39bf8f6&chan=APGDB",
       "title": "Get 50% off HyperWarp by Baby Audio. The discounted price is $49.",
@@ -40,6 +486,55 @@
         {
           "label": "🔥 HOT",
           "kind": "hot"
+        }
+      ]
+    },
+    {
+      "id": "https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/8876-KNOCK?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get 33% off KNOCK by KNOCK Audio. The discounted price is $99.",
+      "developer": "KNOCK Audio",
+      "url": "https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/8876-KNOCK?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 33,
+      "free": false,
+      "ends": "2026-10-31",
+      "dateAdded": "2026-10-06",
+      "tags": [
+        "Transient Shaper",
+        "Saturation",
+        "Distortion",
+        "Clipper",
+        "Sub",
+        "Drum FX"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://audiodeluxe.com/collections/software/products/softube-ssl-xl-9000-k-series-console-1?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "title": "Get 33% off Softube SSL XL 9000 K-Series for Console 1 at Audio Deluxe. The discounted price is $199.",
+      "developer": "",
+      "url": "https://audiodeluxe.com/collections/software/products/softube-ssl-xl-9000-k-series-console-1?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "discount": 33,
+      "free": false,
+      "ends": "2026-10-19",
+      "dateAdded": "2026-10-06",
+      "tags": [],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
         }
       ]
     },
@@ -338,16 +833,7 @@
         "Modulation",
         "MIDI"
       ],
-      "badges": [
-        {
-          "label": "!",
-          "kind": "default"
-        },
-        {
-          "label": "🔥 HOT",
-          "kind": "hot"
-        }
-      ]
+      "badges": []
     },
     {
       "id": "https://www.pluginboutique.com/product/2-Effects/42-Enhancer/1655-MDrumEnhancer?a_aid=57ac3d39bf8f6&chan=APGDB",
@@ -366,16 +852,7 @@
         "MidSide",
         "Limiter"
       ],
-      "badges": [
-        {
-          "label": "!",
-          "kind": "default"
-        },
-        {
-          "label": "🔥 HOT",
-          "kind": "hot"
-        }
-      ]
+      "badges": []
     },
     {
       "id": "https://www.pluginboutique.com/product/2-Effects/21-Channel-Strip/10655-MDrumStrip?a_aid=57ac3d39bf8f6&chan=APGDB",
@@ -394,16 +871,7 @@
         "Gate",
         "Reverb"
       ],
-      "badges": [
-        {
-          "label": "!",
-          "kind": "default"
-        },
-        {
-          "label": "🔥 HOT",
-          "kind": "hot"
-        }
-      ]
+      "badges": []
     },
     {
       "id": "https://www.pluginboutique.com/product/1-Instruments/64-Virtual-Instruments/1133-MDrummer?a_aid=57ac3d39bf8f6&chan=APGDB",
@@ -422,16 +890,7 @@
         "Sequencer",
         "Effects"
       ],
-      "badges": [
-        {
-          "label": "!",
-          "kind": "default"
-        },
-        {
-          "label": "🔥 HOT",
-          "kind": "hot"
-        }
-      ]
+      "badges": []
     },
     {
       "id": "https://www.pluginboutique.com/deals/24184?a_aid=57ac3d39bf8f6&chan=APGDB",
@@ -3412,6 +3871,31 @@
       "badges": []
     },
     {
+      "id": "https://audiodeluxe.com/collections/software/products/eastwest-string-machine?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "title": "Get 60% off EastWest String Machine at Audio Deluxe. The discounted price is $39.",
+      "developer": "EastWest",
+      "url": "https://audiodeluxe.com/collections/software/products/eastwest-string-machine?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
+      "discount": 60,
+      "free": false,
+      "ends": "2026-10-08",
+      "dateAdded": "2026-09-30",
+      "tags": [],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "⏰ ENDS SOON",
+          "kind": "soon"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
       "id": "https://app.shevtoneaudio.com/orchestrator",
       "title": "Get 50% off ShevtoneAudio Orchestrator, a MIDI orchestration plugin, with code orch50.",
       "developer": "ShevToneAudio",
@@ -3440,18 +3924,6 @@
         "Mix & Master",
         "Sound Design"
       ],
-      "badges": []
-    },
-    {
-      "id": "https://audiodeluxe.com/collections/software/products/eastwest-string-machine?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
-      "title": "Get 47% off EastWest String Machine at Audio Deluxe. The discounted price is $52.",
-      "developer": "EastWest",
-      "url": "https://audiodeluxe.com/collections/software/products/eastwest-string-machine?sca_ref=8652346.POlMzknLq02of5K&sca_source=APG",
-      "discount": 47,
-      "free": false,
-      "ends": "2026-11-01",
-      "dateAdded": "2026-09-30",
-      "tags": [],
       "badges": []
     },
     {
