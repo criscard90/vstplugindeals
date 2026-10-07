@@ -96,7 +96,7 @@ async function fetchLocalDeals() {
   if (!response.ok || !data || !data.ok || !Array.isArray(data.deals) || !data.deals.length) {
     throw new Error('deals.json locale non disponibile o non valido.');
   }
-  return { deals: data.deals, meta: { ...data, source: 'audiopluginguy.com (deals.json)' } };
+  return { deals: data.deals, meta: { ...data, source: '' } };
 }
 
 /** Piano 1: il worker restituisce gia' il JSON dei deal. */
@@ -517,7 +517,7 @@ function wireEvents() {
   el.refresh.addEventListener('click', () => loadDeals({ force: true }));
 
   el.reset.addEventListener('click', () => {
-    const ok = confirm('Cancellare tutti i segni: visti, riscattati e "non mi interessa"?');
+    const ok = confirm('Cancellare tutti i tags: visti, riscattati e "non mi interessa"?');
     if (!ok) return;
     for (const key of ['seen', 'redeemed', 'ignored']) {
       localStorage.removeItem(CONFIG.storagePrefix + key);
@@ -536,11 +536,46 @@ function wireEvents() {
       }
     }
     updateCounts();
-    setStatus('Segni azzerati.', 'ok');
+    setStatus('Tags azzerati.', 'ok');
   });
 
   window.addEventListener('online', () => loadDeals({ force: false }));
   window.addEventListener('offline', () => setStatus('Sei offline: mostro gli ultimi dati salvati.', 'warn'));
+}
+
+/* ------------------------------------------------------ installazione PWA */
+
+/**
+ * Pulsante "Installa": il browser (Chrome/Edge, desktop e Android) espone
+ * l'evento beforeinstallprompt solo quando la PWA e' installabile e non e'
+ * ancora installata; il dialogo non puo' aprirsi da solo, quindi il bottone
+ * resta nascosto (attributo hidden) finche' il browser non e' pronto e al
+ * click mostra il prompt nativo. Su iOS/Safari l'evento non esiste e il
+ * pulsante non appare: l'installazione avviene da "Condividi → Su Home").
+ */
+function wireInstallButton() {
+  let deferredPrompt = null;
+
+  window.addEventListener('beforeinstallprompt', (event) => {
+    event.preventDefault();
+    deferredPrompt = event;
+    el.install.hidden = false;
+  });
+
+  el.install.addEventListener('click', async () => {
+    if (!deferredPrompt) return;
+    deferredPrompt.prompt();
+    const { outcome } = await deferredPrompt.userChoice;
+    deferredPrompt = null;
+    el.install.hidden = true;
+    if (outcome === 'accepted') setStatus('✅ App installata con successo!', 'ok');
+  });
+
+  window.addEventListener('appinstalled', () => {
+    deferredPrompt = null;
+    el.install.hidden = true;
+    setStatus('✅ App installata con successo!', 'ok');
+  });
 }
 
 function cacheIsStale(meta) {
@@ -573,6 +608,7 @@ async function init() {
     freeOnly: document.getElementById('free-only'),
     refresh: document.getElementById('refresh'),
     reset: document.getElementById('reset'),
+    install: document.getElementById('install'),
     status: document.getElementById('status'),
     summary: document.getElementById('summary'),
     loader: document.getElementById('loader'),
@@ -581,6 +617,7 @@ async function init() {
   });
 
   wireEvents();
+  wireInstallButton();
   applyUrlFilter();
 
   if ('serviceWorker' in navigator) {

@@ -127,6 +127,28 @@ input:focus-visible {
 .btn-danger { color: #fff; background: var(--danger); border-color: transparent; }
 .btn-ghost { color: var(--text-dim); }
 
+/* Pulsante "Installa": nascosto di default, diventa visibile solo quando il
+ * browser espone beforeinstallprompt (PWA installabile e non gia' installata).
+ * Stile e pulse ripresi dalla repo dawcontroller. */
+.btn-install {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  color: var(--redeemed);
+  border-color: rgba(74, 222, 128, 0.45);
+  animation: pulse-install 2s infinite;
+}
+
+.btn-install:hover {
+  border-color: var(--redeemed);
+  box-shadow: 0 0 14px rgba(74, 222, 128, 0.35);
+}
+
+@keyframes pulse-install {
+  0%, 100% { box-shadow: 0 0 0 rgba(74, 222, 128, 0); }
+  50% { box-shadow: 0 0 14px rgba(74, 222, 128, 0.35); }
+}
+
 /* ------------------------------------------------------------------- filtri */
 
 #filters {

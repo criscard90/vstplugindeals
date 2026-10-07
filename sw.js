@@ -8,7 +8,7 @@
  *    vecchia è comunque più utile di una lista vuota.
  */
 
-const VERSION = 'v2.0.3';
+const VERSION = 'v2.0.4';
 const SHELL_CACHE = `plugin-deals-shell-${VERSION}`;
 const DATA_CACHE = `plugin-deals-data-${VERSION}`;
 
