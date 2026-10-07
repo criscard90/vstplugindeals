@@ -27,11 +27,20 @@ La PWA dispone ora di un doppio meccanismo di alimentazione:
 
 ### 1. GitHub Actions + `deals.json` (Attivo e autonomo al 100%)
 Il repository contiene il file `deals.json` con tutti i deal estratti.
-Una **GitHub Action** (`.github/workflows/update-deals.yml`) gira automaticamente ogni 6 ore (o manualmente dalla tab *Actions* di GitHub con il pulsante *Run workflow*):
+Una **GitHub Action** (`.github/workflows/update-deals.yml`) gira automaticamente **ogni ora, al minuto :07** (o manualmente dalla tab *Actions* di GitHub con il pulsante *Run workflow*):
 - Esegue lo scraping con emulazione browser tramite `scripts/build-deals.mjs`.
 - Estrae e verifica i deal con `npm test`.
 - Se ci sono novità, aggiorna `deals.json` nel repository.
 - La PWA carica `deals.json` istantaneamente, senza problemi di CORS, senza dipendere da server esterni e funzionando anche totalmente offline grazie al Service Worker.
+
+> **Nota (aggiornamento 07/10/2026):** lo trigger `schedule` di GitHub è
+> best-effort e in questo periodo salta la maggior parte degli scatti orari
+> (confermato: ~18% delle run create dal 29/9, con ritardi di 1-8 ore). Per questo
+> motivo la workflow va **ancora disparata ogni ora da un cron esterno** tramite
+> l'API `workflow_dispatch`; lo `schedule` resta attivo come backup (il blocco
+> `concurrency` rende innocue le doppie esecuzioni). Guida completa passo-passo:
+> [`AGGIORNAMENTO-ESTERNO.md`](./AGGIORNAMENTO-ESTERNO.md).
+
 
 ### 2. Cloudflare Worker opzionale (`worker.js`)
 Se vuoi abilitare il refresh in tempo reale direttamente dal pulsante "Aggiorna":

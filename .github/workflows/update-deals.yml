@@ -9,6 +9,11 @@ on:
     # Italia il run cade sempre alle :07 di ogni ora, tutto l'anno.
     - cron: '7 * * * *'
   workflow_dispatch: # Permette di avviare l'aggiornamento a mano con un click da GitHub
+  # NOTA: lo trigger `schedule` sopra e' best-effort (GitHub salta/scarta scatti
+  # orari). L'orario affidabile e' garantito da un cron esterno che chiama
+  #   POST /actions/workflows/369892153/dispatches  {"ref":"main"}
+  # Guida: AGGIORNAMENTO-ESTERNO.md. Le doppie esecuzioni sono safe grazie al
+  # blocco concurrency qui sotto: la seconda run non trova modifiche e non committa.
 
 # Un solo run alla volta: se una esecuzione va lenta la successiva aspetta
 # invece di fare scraping concorrente sullo stesso deals.json.
