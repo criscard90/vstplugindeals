@@ -54,3 +54,24 @@ jobs:
             git commit -m "Auto-update deals.json [skip ci]"
             git push
           fi
+
+      # Se lo scraping fallisce lo script preserva il vecchio deals.json (per non
+      # perdere i dati) e la run resterebbe verde: qui la run diventa ROSSA quando
+      # i dati superano 110 minuti di eta', cosi' un blocco della fonte (es. 403
+      # o challenge WAF) non passa piu' inosservato.
+      - name: Verifica freschezza dei dati (max 110 minuti)
+        run: |
+          node -e "
+          const fs = require('fs');
+          const d = JSON.parse(fs.readFileSync('deals.json', 'utf8'));
+          const age = (Date.now() - Date.parse(d.fetchedAt)) / 60000;
+          if (!isFinite(age)) {
+            console.error('::error::deals.json: fetchedAt mancante o invalido.');
+            process.exit(1);
+          }
+          console.log('deals.json aggiornato ' + Math.round(age) + ' min fa (' + d.fetchedAt + ')');
+          if (age > 110) {
+            console.error('::error::Dati vecchi di ' + Math.round(age) + ' minuti: lo scraping non riesce a completarsi. Controllare lo step di scraping (la fonte potrebbe essere in blocco 403/challenge).');
+            process.exit(1);
+          }
+          "

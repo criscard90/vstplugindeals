@@ -75,11 +75,12 @@ Note:
 
 | Sintomo | Causa probabile | Rimedio |
 | --- | --- | --- |
-| HTTP 401 | header `Authorization` mancante, malformato o token scaduto | usa esattamente `Bearer <token>`; rigenera il token |
+| HTTP 401 | header `Authorization` mancante, malformato o token scaduto; **molto comune**: aver incollato il testo segnaposto tipo `` Bearer <TOKEN> `` con parentesi/backtick | il valore del campo deve essere **solo** `Bearer github_pat_...` (token reale), nient'altro; rigenera il token se scaduto |
 | HTTP 403 | permessi insufficienti | fine-grained: **Actions → Read and write** sul repo; classica: scope `repo` |
 | HTTP 404 | workflow ID errato o token senza accesso al repo | usa il nome file `update-deals.yml`; controlla *Repository access* del PAT |
 | HTTP 422 | `ref` inesistente o workflow senza trigger `workflow_dispatch` | body `{"ref":"main"}`; il file deve essere sul branch di default |
 | HTTP 204 ma nessuna run | ref su branch sbagliato o run in coda | verifica che `main` sia il branch di default, riprova tra qualche minuto |
+| Run rossa "Dati vecchi di X minuti" | la fonte (audiopluginguy.com) risponde 403/challenge allo scraper, tipicamente sugli IP dei datacenter di GitHub | lo step *Verifica freschezza* segnala il problema: il vecchio `deals.json` resta valido e la PWA continua a funzionare; lo script riprova con retry a ogni run e di norma si sblocca da solo |
 | Doppie run (schedule + dispatch) | entrambi gli trigger hanno partito | OK: `concurrency` le serializza, la seconda non committa nulla |
 
 ## Sicurezza
