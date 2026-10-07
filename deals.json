@@ -2,11 +2,11 @@
   "ok": true,
   "source": "audiopluginguy.com/deals",
   "sourceUrl": "https://www.audiopluginguy.com/deals/",
-  "fetchedAt": "2026-10-07T14:00:58.891Z",
+  "fetchedAt": "2026-10-07T15:01:02.429Z",
   "stats": {
-    "rows": 322,
+    "rows": 329,
     "free": 43,
-    "kept": 318,
+    "kept": 325,
     "skipped": 0,
     "duplicates": 4
   },
@@ -19,6 +19,110 @@
       "discount": 95,
       "free": false,
       "ends": "2026-10-20",
+      "dateAdded": "2026-10-07",
+      "tags": [],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        },
+        {
+          "label": "💰 BIG DISCOUNT",
+          "kind": "save"
+        }
+      ]
+    },
+    {
+      "id": "https://www.pluginboutique.com/deals/24031?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get up to 94% off in the Waves Horizon Bundle $199.99 Sale.",
+      "developer": "",
+      "url": "https://www.pluginboutique.com/deals/24031?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 94,
+      "free": false,
+      "ends": "2026-10-11",
+      "dateAdded": "2026-10-07",
+      "tags": [],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        },
+        {
+          "label": "💰 BIG DISCOUNT",
+          "kind": "save"
+        }
+      ]
+    },
+    {
+      "id": "https://www.pluginboutique.com/deals/24181?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get up to 92% off in the The Tone Foundry October Sale.",
+      "developer": "Tone Foundry",
+      "url": "https://www.pluginboutique.com/deals/24181?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 92,
+      "free": false,
+      "ends": "2026-10-31",
+      "dateAdded": "2026-10-07",
+      "tags": [],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        },
+        {
+          "label": "💰 BIG DISCOUNT",
+          "kind": "save"
+        }
+      ]
+    },
+    {
+      "id": "https://www.pluginboutique.com/deals/24201?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get up to 85% off in the W.A. Production MIDI Plugins Sale.",
+      "developer": "W.A. Production",
+      "url": "https://www.pluginboutique.com/deals/24201?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 85,
+      "free": false,
+      "ends": "2026-10-18",
+      "dateAdded": "2026-10-07",
+      "tags": [],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        },
+        {
+          "label": "🔥 HOT",
+          "kind": "hot"
+        },
+        {
+          "label": "💰 BIG DISCOUNT",
+          "kind": "save"
+        }
+      ]
+    },
+    {
+      "id": "https://www.pluginboutique.com/deals/24216?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get up to 80% off in the Plugin Boutique Analog Emulations Sale.",
+      "developer": "Various",
+      "url": "https://www.pluginboutique.com/deals/24216?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 80,
+      "free": false,
+      "ends": "2026-10-25",
       "dateAdded": "2026-10-07",
       "tags": [],
       "badges": [
@@ -58,6 +162,27 @@
       ]
     },
     {
+      "id": "https://www.pluginboutique.com/deals/24215?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get up to 71% off in the Plugin Boutique Bundles Sale.",
+      "developer": "Various",
+      "url": "https://www.pluginboutique.com/deals/24215?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 71,
+      "free": false,
+      "ends": "2026-10-25",
+      "dateAdded": "2026-10-07",
+      "tags": [],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
       "id": "https://www.pluginboutique.com/deals/24153?a_aid=57ac3d39bf8f6&chan=APGDB",
       "title": "Get up to 62% off in the McDSP Analogue Emulations Sale.",
       "developer": "McDSP",
@@ -79,11 +204,53 @@
       ]
     },
     {
+      "id": "https://www.pluginboutique.com/deals/24182?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get up to 61% off in the The Tone Foundry driveDAT Analogue Emulations Month Sale.",
+      "developer": "Tone Foundry",
+      "url": "https://www.pluginboutique.com/deals/24182?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 61,
+      "free": false,
+      "ends": "2026-10-31",
+      "dateAdded": "2026-10-07",
+      "tags": [],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
       "id": "https://www.pluginboutique.com/deals/23886?a_aid=57ac3d39bf8f6&chan=APGDB",
       "title": "Get up to 61% off in the KNOCK Audio Summer Sale.",
       "developer": "KNOCK AUDIO",
       "url": "https://www.pluginboutique.com/deals/23886?a_aid=57ac3d39bf8f6&chan=APGDB",
       "discount": 61,
+      "free": false,
+      "ends": "2026-10-31",
+      "dateAdded": "2026-10-07",
+      "tags": [],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://www.pluginboutique.com/deals/24141?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get up to 60% off in the Ueberschall Spooky Loops Sale.",
+      "developer": "Ueberschall",
+      "url": "https://www.pluginboutique.com/deals/24141?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 60,
       "free": false,
       "ends": "2026-10-31",
       "dateAdded": "2026-10-07",
