@@ -2,11 +2,11 @@
   "ok": true,
   "source": "audiopluginguy.com/deals",
   "sourceUrl": "https://www.audiopluginguy.com/deals/",
-  "fetchedAt": "2026-10-07T20:00:54.770Z",
+  "fetchedAt": "2026-10-07T21:00:54.252Z",
   "stats": {
-    "rows": 329,
+    "rows": 333,
     "free": 43,
-    "kept": 325,
+    "kept": 329,
     "skipped": 0,
     "duplicates": 4
   },
@@ -45,7 +45,14 @@
       "free": false,
       "ends": "2026-10-11",
       "dateAdded": "2026-10-07",
-      "tags": [],
+      "tags": [
+        "Samples",
+        "Synth",
+        "Effects",
+        "Instruments",
+        "Drum",
+        "Guitar"
+      ],
       "badges": [
         {
           "label": "!",
@@ -70,7 +77,16 @@
       "free": false,
       "ends": "2026-10-31",
       "dateAdded": "2026-10-07",
-      "tags": [],
+      "tags": [
+        "Samples",
+        "Synth",
+        "Effects",
+        "Instruments",
+        "Drum",
+        "Guitar",
+        "Bass",
+        "Vocal"
+      ],
       "badges": [
         {
           "label": "!",
@@ -95,7 +111,50 @@
       "free": false,
       "ends": "2026-10-18",
       "dateAdded": "2026-10-07",
-      "tags": [],
+      "tags": [
+        "Synth",
+        "Effects",
+        "Virtual Instrument",
+        "Samples",
+        "Instruments",
+        "Production"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        },
+        {
+          "label": "🔥 HOT",
+          "kind": "hot"
+        },
+        {
+          "label": "💰 BIG DISCOUNT",
+          "kind": "save"
+        }
+      ]
+    },
+    {
+      "id": "https://www.pluginboutique.com/product/2-Effects/18-Amp-Simulator/12669-AmpliTube-5?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get 84% off AmpliTube 5 by IK Multimedia. The discounted price is $29.99.",
+      "developer": "IK Multimedia",
+      "url": "https://www.pluginboutique.com/product/2-Effects/18-Amp-Simulator/12669-AmpliTube-5?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 84,
+      "free": false,
+      "ends": "2026-10-15",
+      "dateAdded": "2026-10-07",
+      "tags": [
+        "Amp Simulator",
+        "AmpliTube",
+        "Guitar",
+        "Guitar Pedals",
+        "Impulse Response",
+        "Effects"
+      ],
       "badges": [
         {
           "label": "!",
@@ -124,7 +183,14 @@
       "free": false,
       "ends": "2026-10-25",
       "dateAdded": "2026-10-07",
-      "tags": [],
+      "tags": [
+        "Synth",
+        "Effects",
+        "Virtual Instrument",
+        "Samples",
+        "Loops",
+        "Drum"
+      ],
       "badges": [
         {
           "label": "!",
@@ -141,6 +207,38 @@
       ]
     },
     {
+      "id": "https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15171-Total-Studio-5-MAX?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get 75% off Total Studio 5 MAX by IK Multimedia. The discounted price is $149.99.",
+      "developer": "IK Multimedia",
+      "url": "https://www.pluginboutique.com/product/81-Bundles/89-Complete-Collection/15171-Total-Studio-5-MAX?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 75,
+      "free": false,
+      "ends": "2026-10-15",
+      "dateAdded": "2026-10-07",
+      "tags": [
+        "Bundle",
+        "Instruments",
+        "Effects",
+        "Amp Simulator",
+        "AI",
+        "Mastering"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        },
+        {
+          "label": "🔥 HOT",
+          "kind": "hot"
+        }
+      ]
+    },
+    {
       "id": "https://www.pluginboutique.com/deals/24218?a_aid=57ac3d39bf8f6&chan=APGDB",
       "title": "Get up to 75% off in the Plugin Boutique Plugins Autumn Sale.",
       "developer": "",
@@ -149,7 +247,13 @@
       "free": false,
       "ends": "2026-10-25",
       "dateAdded": "2026-10-07",
-      "tags": [],
+      "tags": [
+        "Synth",
+        "Effects",
+        "Instruments",
+        "Samples",
+        "Sound Design"
+      ],
       "badges": [
         {
           "label": "!",
@@ -170,7 +274,13 @@
       "free": false,
       "ends": "2026-10-25",
       "dateAdded": "2026-10-07",
-      "tags": [],
+      "tags": [
+        "Synth",
+        "Effects",
+        "Instruments",
+        "Samples",
+        "Sound Design"
+      ],
       "badges": [
         {
           "label": "!",
@@ -191,7 +301,13 @@
       "free": false,
       "ends": "2026-11-01",
       "dateAdded": "2026-10-07",
-      "tags": [],
+      "tags": [
+        "Synth",
+        "Effects",
+        "Instruments",
+        "Samples",
+        "Sound Design"
+      ],
       "badges": [
         {
           "label": "!",
@@ -212,7 +328,16 @@
       "free": false,
       "ends": "2026-10-31",
       "dateAdded": "2026-10-07",
-      "tags": [],
+      "tags": [
+        "Synth",
+        "Effects",
+        "Virtual Instrument",
+        "Samples",
+        "Drum",
+        "Guitar",
+        "Bass",
+        "Vocal"
+      ],
       "badges": [
         {
           "label": "!",
@@ -233,7 +358,15 @@
       "free": false,
       "ends": "2026-10-31",
       "dateAdded": "2026-10-07",
-      "tags": [],
+      "tags": [
+        "Synth",
+        "Effects",
+        "Samples",
+        "Instruments",
+        "DAW",
+        "Mixing",
+        "Mastering"
+      ],
       "badges": [
         {
           "label": "!",
@@ -254,7 +387,16 @@
       "free": false,
       "ends": "2026-10-31",
       "dateAdded": "2026-10-07",
-      "tags": [],
+      "tags": [
+        "Synth",
+        "Effects",
+        "Virtual Instrument",
+        "Instruments",
+        "Samples",
+        "Synth Presets",
+        "Production",
+        "Mixing"
+      ],
       "badges": [
         {
           "label": "!",
@@ -275,7 +417,14 @@
       "free": false,
       "ends": "2026-10-12",
       "dateAdded": "2026-10-07",
-      "tags": [],
+      "tags": [
+        "Synth",
+        "Effects",
+        "Virtual Instrument",
+        "Samples",
+        "Instruments",
+        "Production"
+      ],
       "badges": [
         {
           "label": "!",
@@ -288,15 +437,22 @@
       ]
     },
     {
-      "id": "https://www.pluginboutique.com/deals/24193?a_aid=57ac3d39bf8f6&chan=APGDB",
-      "title": "Get up to 17% off in the GForce Prophet 5 Analog Emulations Sale.",
-      "developer": "GForce Software",
-      "url": "https://www.pluginboutique.com/deals/24193?a_aid=57ac3d39bf8f6&chan=APGDB",
-      "discount": 17,
+      "id": "https://www.pluginboutique.com/product/2-Effects/9-Limiter/17985-Limit-Pro?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get 33% off Limit Pro by Softube. The discounted price is $99.",
+      "developer": "Softube",
+      "url": "https://www.pluginboutique.com/product/2-Effects/9-Limiter/17985-Limit-Pro?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 33,
       "free": false,
-      "ends": "2026-10-19",
+      "ends": "2026-11-07",
       "dateAdded": "2026-10-07",
-      "tags": [],
+      "tags": [
+        "Limiter",
+        "Mastering",
+        "Mix & Master",
+        "Metering",
+        "Dynamics",
+        "808"
+      ],
       "badges": [
         {
           "label": "!",
@@ -305,6 +461,71 @@
         {
           "label": "🆕 NEW",
           "kind": "new"
+        },
+        {
+          "label": "🔥 HOT",
+          "kind": "hot"
+        }
+      ]
+    },
+    {
+      "id": "https://www.pluginboutique.com/deals/24193?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get up to 17% off in the GForce Prophet 5 Analog Emulations Sale.",
+      "developer": "GForce Software",
+      "url": "https://www.pluginboutique.com/deals/24193?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 17,
+      "free": false,
+      "ends": "2026-10-19",
+      "dateAdded": "2026-10-07",
+      "tags": [
+        "Synth",
+        "Effects",
+        "Virtual Instrument",
+        "Samples",
+        "Drum",
+        "Guitar",
+        "Bass",
+        "Vocal"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://www.pluginboutique.com/product/2-Effects/9-Limiter/17984-Limit-Go?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get 10% off Limit Go by Softube. The discounted price is $89.",
+      "developer": "Softube",
+      "url": "https://www.pluginboutique.com/product/2-Effects/9-Limiter/17984-Limit-Go?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 10,
+      "free": false,
+      "ends": "2026-11-07",
+      "dateAdded": "2026-10-07",
+      "tags": [
+        "Limiter",
+        "Mastering",
+        "Mixing",
+        "Metering",
+        "Distortion"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        },
+        {
+          "label": "🔥 HOT",
+          "kind": "hot"
         }
       ]
     },
