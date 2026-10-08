@@ -2,11 +2,11 @@
   "ok": true,
   "source": "audiopluginguy.com/deals",
   "sourceUrl": "https://www.audiopluginguy.com/deals/",
-  "fetchedAt": "2026-10-08T08:00:54.619Z",
+  "fetchedAt": "2026-10-08T08:49:05.009Z",
   "stats": {
-    "rows": 325,
+    "rows": 326,
     "free": 42,
-    "kept": 322,
+    "kept": 323,
     "skipped": 0,
     "duplicates": 3
   },
@@ -30,6 +30,33 @@
         "Standalone"
       ],
       "badges": []
+    },
+    {
+      "id": "https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/18003-A-Class-Vocal?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get 25% off A-Class Vocal by Bogren Digital. The discounted price is $89.",
+      "developer": "Bogren Digital",
+      "url": "https://www.pluginboutique.com/product/2-Effects/54-Vocal-Processing/18003-A-Class-Vocal?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 25,
+      "free": false,
+      "ends": "2026-10-25",
+      "dateAdded": "2026-10-08",
+      "tags": [
+        "Vocal Processing",
+        "Effects",
+        "Dynamics",
+        "Harmonic",
+        "Emulation"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
     },
     {
       "id": "https://audioplugin.deals/product/analog-plugins-bundle-by-cloudy-samples/ref/21/",
