@@ -2,15 +2,36 @@
   "ok": true,
   "source": "audiopluginguy.com/deals",
   "sourceUrl": "https://www.audiopluginguy.com/deals/",
-  "fetchedAt": "2026-10-08T09:00:56.258Z",
+  "fetchedAt": "2026-10-08T12:00:57.509Z",
   "stats": {
-    "rows": 326,
+    "rows": 327,
     "free": 42,
-    "kept": 323,
+    "kept": 324,
     "skipped": 0,
     "duplicates": 3
   },
   "deals": [
+    {
+      "id": "https://audioplugin.deals/product/steinbach-chain-by-hauke-steinbach/ref/21/",
+      "title": "Get 60% off Steinbach Chain by Hauke Steinbach by $20 (Normally $50).",
+      "developer": "Hauke Steinbach",
+      "url": "https://audioplugin.deals/product/steinbach-chain-by-hauke-steinbach/ref/21/",
+      "discount": 60,
+      "free": false,
+      "ends": "2026-10-21",
+      "dateAdded": "2026-10-08",
+      "tags": [],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
     {
       "id": "https://kuusoutoshi-audio.com/drumunveil/",
       "title": "Get $20 off DrumUnveil from KUUSOUTOSHI AUDIO with coupon code: LAUNCH49 (launch price $49, regular $69).",
