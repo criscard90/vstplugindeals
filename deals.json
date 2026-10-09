@@ -2,15 +2,65 @@
   "ok": true,
   "source": "audiopluginguy.com/deals",
   "sourceUrl": "https://www.audiopluginguy.com/deals/",
-  "fetchedAt": "2026-10-09T11:01:00.344Z",
+  "fetchedAt": "2026-10-09T12:00:59.566Z",
   "stats": {
-    "rows": 340,
-    "free": 38,
-    "kept": 337,
+    "rows": 343,
+    "free": 39,
+    "kept": 340,
     "skipped": 0,
     "duplicates": 3
   },
   "deals": [
+    {
+      "id": "https://audioplugin.deals/product/bloom-drum-machine-lite-by-excite-audio/ref/21/",
+      "title": "Get Bloom Drum Machine Lite by Excite Audio free, normally $29.",
+      "developer": "Excite Audio",
+      "url": "https://audioplugin.deals/product/bloom-drum-machine-lite-by-excite-audio/ref/21/",
+      "discount": 100,
+      "free": true,
+      "ends": "2026-10-22",
+      "dateAdded": "2026-10-09",
+      "tags": [],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        },
+        {
+          "label": "🎁 FREEBIE",
+          "kind": "freebie"
+        }
+      ]
+    },
+    {
+      "id": "https://audioplugin.deals/product/palmary-collection-v2-by-noiseash/ref/21/",
+      "title": "Get 88% off Palmary Collection v2 by NoiseAsh for $49 (Normally $399).",
+      "developer": "NoiseAsh",
+      "url": "https://audioplugin.deals/product/palmary-collection-v2-by-noiseash/ref/21/",
+      "discount": 88,
+      "free": false,
+      "ends": "2026-10-22",
+      "dateAdded": "2026-10-09",
+      "tags": [],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        },
+        {
+          "label": "💰 BIG DISCOUNT",
+          "kind": "save"
+        }
+      ]
+    },
     {
       "id": "https://www.pluginboutique.com/product/2-Effects/50-Mastering-/10547-Mix-Monolith?a_aid=57ac3d39bf8f6&chan=APGDB",
       "title": "Get 72% off Mix Monolith by AYAIC. The discounted price is $69.",
@@ -142,6 +192,27 @@
         "Mastering",
         "Dynamics"
       ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://audioplugin.deals/product/sourcelab-2-by-initial-audio/ref/21/",
+      "title": "Get 51% off SourceLab 2 by Initial Audio for $49 (Normally $99).",
+      "developer": "Initial Audio",
+      "url": "https://audioplugin.deals/product/sourcelab-2-by-initial-audio/ref/21/",
+      "discount": 51,
+      "free": false,
+      "ends": "2026-10-22",
+      "dateAdded": "2026-10-09",
+      "tags": [],
       "badges": [
         {
           "label": "!",
