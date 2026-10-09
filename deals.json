@@ -2,15 +2,250 @@
   "ok": true,
   "source": "audiopluginguy.com/deals",
   "sourceUrl": "https://www.audiopluginguy.com/deals/",
-  "fetchedAt": "2026-10-09T08:01:00.307Z",
+  "fetchedAt": "2026-10-09T08:52:21.014Z",
   "stats": {
-    "rows": 332,
+    "rows": 340,
     "free": 38,
-    "kept": 329,
+    "kept": 337,
     "skipped": 0,
     "duplicates": 3
   },
   "deals": [
+    {
+      "id": "https://www.pluginboutique.com/product/2-Effects/50-Mastering-/10547-Mix-Monolith?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get 72% off Mix Monolith by AYAIC. The discounted price is $69.",
+      "developer": "AYAIC",
+      "url": "https://www.pluginboutique.com/product/2-Effects/50-Mastering-/10547-Mix-Monolith?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 72,
+      "free": false,
+      "ends": "2026-10-19",
+      "dateAdded": "2026-10-09",
+      "tags": [
+        "Mix & Master",
+        "Mixing",
+        "Utility",
+        "Dynamics",
+        "Mastering"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://www.pluginboutique.com/product/2-Effects/16-EQ/10545-Ceilings-Of-Sound-Pro-Hyper-EQ-?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get 72% off Ceilings Of Sound Pro (Hyper-EQ) by AYAIC. The discounted price is $69.",
+      "developer": "AYAIC",
+      "url": "https://www.pluginboutique.com/product/2-Effects/16-EQ/10545-Ceilings-Of-Sound-Pro-Hyper-EQ-?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 72,
+      "free": false,
+      "ends": "2026-10-19",
+      "dateAdded": "2026-10-09",
+      "tags": [
+        "EQ",
+        "Analyzer",
+        "Metering",
+        "Mixing",
+        "Mastering"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/14960-CHEat-Code?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get 71% off CHEat Code by BEATSURFING. The discounted price is $39.",
+      "developer": "BEATSURFING",
+      "url": "https://www.pluginboutique.com/product/2-Effects/53-Multi-Effect-/14960-CHEat-Code?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 71,
+      "free": false,
+      "ends": "2026-10-15",
+      "dateAdded": "2026-10-09",
+      "tags": [
+        "Multi-Effect",
+        "Effects",
+        "Granular",
+        "Delay",
+        "Reverb",
+        "Modulation"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://www.pluginboutique.com/product/2-Effects/44-Saturation/3016-RC-20-Retro-Color?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get 70% off RC-20 Retro Color by XLN Audio. The discounted price is $29.",
+      "developer": "XLN Audio",
+      "url": "https://www.pluginboutique.com/product/2-Effects/44-Saturation/3016-RC-20-Retro-Color?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 70,
+      "free": false,
+      "ends": "2026-10-16",
+      "dateAdded": "2026-10-09",
+      "tags": [
+        "Multi-Effect",
+        "Saturation",
+        "Distortion",
+        "Bit Crusher",
+        "Reverb",
+        "LoFi"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        },
+        {
+          "label": "🔥 HOT",
+          "kind": "hot"
+        }
+      ]
+    },
+    {
+      "id": "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/10551-ProMix-Bundle?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get 67% off ProMix Bundle by AYAIC. The discounted price is $129.",
+      "developer": "AYAIC",
+      "url": "https://www.pluginboutique.com/product/81-Bundles/39-Effects-Bundles/10551-ProMix-Bundle?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 67,
+      "free": false,
+      "ends": "2026-10-19",
+      "dateAdded": "2026-10-09",
+      "tags": [
+        "Effect Bundle",
+        "EQ",
+        "Analyzer",
+        "Mixing",
+        "Mastering",
+        "Dynamics"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        }
+      ]
+    },
+    {
+      "id": "https://www.pluginboutique.com/product/1-Instruments/60-Reaktor-Ensemble/10995-Monark?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get 51% off Monark by Native Instruments. The discounted price is $48.",
+      "developer": "Native Instruments",
+      "url": "https://www.pluginboutique.com/product/1-Instruments/60-Reaktor-Ensemble/10995-Monark?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 51,
+      "free": false,
+      "ends": "2026-10-26",
+      "dateAdded": "2026-10-09",
+      "tags": [
+        "Synth",
+        "Analog",
+        "Bass",
+        "Mono",
+        "Reaktor"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        },
+        {
+          "label": "🔥 HOT",
+          "kind": "hot"
+        }
+      ]
+    },
+    {
+      "id": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/11005-Supercharger-GT?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get 49% off Supercharger GT by Native Instruments. The discounted price is $33.",
+      "developer": "Native Instruments",
+      "url": "https://www.pluginboutique.com/product/2-Effects/8-Compressor/11005-Supercharger-GT?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 49,
+      "free": false,
+      "ends": "2026-10-26",
+      "dateAdded": "2026-10-09",
+      "tags": [
+        "Compressor",
+        "Tube",
+        "Saturation",
+        "MidSide",
+        "Sidechain"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        },
+        {
+          "label": "🔥 HOT",
+          "kind": "hot"
+        }
+      ]
+    },
+    {
+      "id": "https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/11006-Transient-Master?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "title": "Get 47% off Transient Master by Native Instruments. The discounted price is $24.",
+      "developer": "Native Instruments",
+      "url": "https://www.pluginboutique.com/product/2-Effects/71-Dynamics-Processor/11006-Transient-Master?a_aid=57ac3d39bf8f6&chan=APGDB",
+      "discount": 47,
+      "free": false,
+      "ends": "2026-10-26",
+      "dateAdded": "2026-10-09",
+      "tags": [
+        "Dynamics Processor",
+        "Transient Shaper",
+        "Drum Tools",
+        "Mixing",
+        "Effects"
+      ],
+      "badges": [
+        {
+          "label": "!",
+          "kind": "default"
+        },
+        {
+          "label": "🆕 NEW",
+          "kind": "new"
+        },
+        {
+          "label": "🔥 HOT",
+          "kind": "hot"
+        }
+      ]
+    },
     {
       "id": "https://www.discodsp.com/waveprompt/",
       "title": "DiscoDSP has released WavePrompt, a free text-to-music generator app for Win and Mac.",
